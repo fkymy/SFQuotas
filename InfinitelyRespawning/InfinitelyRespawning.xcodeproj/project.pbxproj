@@ -9,9 +9,9 @@
 /* Begin PBXBuildFile section */
 		D98B4E8A20F4D67200EFAA35 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D98B4E8920F4D67200EFAA35 /* AppDelegate.swift */; };
 		D98B4E9120F4D67300EFAA35 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D98B4E9020F4D67300EFAA35 /* Assets.xcassets */; };
-		D98B4E9E20F4D6C500EFAA35 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = D98B4E9B20F4D6C500EFAA35 /* Logger.swift */; };
-		D98B4E9F20F4D6C500EFAA35 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D98B4E9C20F4D6C500EFAA35 /* ViewController.swift */; };
-		D98B4EA020F4D6C500EFAA35 /* BorderedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D98B4E9D20F4D6C500EFAA35 /* BorderedButton.swift */; };
+		D9D79A5C20F504C8003563B0 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D79A5B20F504C8003563B0 /* Logger.swift */; };
+		D9D79A5E20F50503003563B0 /* BorderedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D79A5D20F50503003563B0 /* BorderedButton.swift */; };
+		D9D79A6020F5052B003563B0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D79A5F20F5052B003563B0 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,9 +19,9 @@
 		D98B4E8920F4D67200EFAA35 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D98B4E9020F4D67300EFAA35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D98B4E9520F4D67300EFAA35 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		D98B4E9B20F4D6C500EFAA35 /* Logger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Logger.swift; path = ../../RecognitionTaskWithDelegate/RecognitionTaskWithDelegate/Logger.swift; sourceTree = "<group>"; };
-		D98B4E9C20F4D6C500EFAA35 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = ../../RecognitionTaskWithDelegate/RecognitionTaskWithDelegate/ViewController.swift; sourceTree = "<group>"; };
-		D98B4E9D20F4D6C500EFAA35 /* BorderedButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BorderedButton.swift; path = ../../RecognitionTaskWithDelegate/RecognitionTaskWithDelegate/BorderedButton.swift; sourceTree = "<group>"; };
+		D9D79A5B20F504C8003563B0 /* Logger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Logger.swift; sourceTree = "<group>"; };
+		D9D79A5D20F50503003563B0 /* BorderedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BorderedButton.swift; sourceTree = "<group>"; };
+		D9D79A5F20F5052B003563B0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,9 +55,9 @@
 			isa = PBXGroup;
 			children = (
 				D98B4E8920F4D67200EFAA35 /* AppDelegate.swift */,
-				D98B4E9C20F4D6C500EFAA35 /* ViewController.swift */,
-				D98B4E9B20F4D6C500EFAA35 /* Logger.swift */,
-				D98B4E9D20F4D6C500EFAA35 /* BorderedButton.swift */,
+				D9D79A5B20F504C8003563B0 /* Logger.swift */,
+				D9D79A5D20F50503003563B0 /* BorderedButton.swift */,
+				D9D79A5F20F5052B003563B0 /* ViewController.swift */,
 				D98B4E9020F4D67300EFAA35 /* Assets.xcassets */,
 				D98B4E9520F4D67300EFAA35 /* Info.plist */,
 			);
@@ -133,10 +133,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D98B4E9F20F4D6C500EFAA35 /* ViewController.swift in Sources */,
 				D98B4E8A20F4D67200EFAA35 /* AppDelegate.swift in Sources */,
-				D98B4EA020F4D6C500EFAA35 /* BorderedButton.swift in Sources */,
-				D98B4E9E20F4D6C500EFAA35 /* Logger.swift in Sources */,
+				D9D79A5C20F504C8003563B0 /* Logger.swift in Sources */,
+				D9D79A6020F5052B003563B0 /* ViewController.swift in Sources */,
+				D9D79A5E20F50503003563B0 /* BorderedButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
