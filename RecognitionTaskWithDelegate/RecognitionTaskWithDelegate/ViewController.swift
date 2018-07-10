@@ -5,12 +5,10 @@
 //  Created by Yuske Fukuyama on 2018/07/10.
 //  Copyright © 2018 Yuske Fukuyama. All rights reserved.
 //
-
-import Foundation
 import UIKit
 import Speech
 
-class ViewController: UIViewController {
+class ViewController: UIViewController, SFSpeechRecognizerDelegate {
   
   var session = AVAudioSession.sharedInstance()
   var engine = AVAudioEngine()
@@ -19,16 +17,15 @@ class ViewController: UIViewController {
   var recognitionTask: SFSpeechRecognitionTask?
   let inputNodeBus: AVAudioNodeBus = 0
   let bufferSize: AVAudioFrameCount = 1024
+  var isListening = false {
+    didSet {
+      statusLabel.text = isListening ? "is Listening" : "not listening"
+    }
+  }
   
-  var counter = 0
-  let secondsPerTask = 15.0
-  let dispatchGroup = DispatchGroup()
-  let dispatchQueue = DispatchQueue(label: "queue") // not .concurrent
-
   lazy var statusLabel: UILabel = {
     let label = UILabel()
     label.textColor = UIColor.white
-    label.text = "Hello"
     return label
   }()
   
@@ -36,7 +33,6 @@ class ViewController: UIViewController {
     let button = BorderedButton()
     button.setTitle("Buffer", for: .normal)
     button.addTarget(self, action: #selector(onStart), for: .touchUpInside)
-    button.isEnabled = true
     return button
   }()
   
@@ -67,17 +63,13 @@ class ViewController: UIViewController {
       stackViewCenterY,
       ])
   }
-
+  
   override func viewDidLoad() {
     super.viewDidLoad()
     logger.info(message: "viewDidLoad")
+    recognizer?.delegate = self
     setupViews()
     authorizeSpeech()
-  }
-  
-  override func didReceiveMemoryWarning() {
-    stopListening()
-    logger.fatal(message: "didReceiveMemoryWarning")
   }
   
   override func viewWillDisappear(_ animated: Bool) {
@@ -94,11 +86,13 @@ class ViewController: UIViewController {
       logger.debug(message: "SFSpeechRecognizer authorizationStatus is not authorized")
       return
     }
+    guard !engine.isRunning else {
+      logger.debug(message: "AudioEngine is already running")
+      return
+    }
     
     activateAudio()
     startListening()
-    startButton.isEnabled = false
-    stopButton.isEnabled = true
   }
   
   @objc func onStop() {
@@ -106,11 +100,9 @@ class ViewController: UIViewController {
   }
   
   func startListening() {
-    counter = counter + 1
-    logger.debug(message: "# [START Recognition Task \(counter)]")
-
     recognizerRequest = SFSpeechAudioBufferRecognitionRequest()
-
+    recognizerRequest.shouldReportPartialResults = true
+    
     let node = engine.inputNode
     let format = node.outputFormat(forBus: 0)
     node.installTap(onBus: inputNodeBus, bufferSize: bufferSize, format: format) { (buffer, time) in
@@ -126,34 +118,12 @@ class ViewController: UIViewController {
       logger.error(error: error)
     }
     
-    // recognitionTask = recognizer?.recognitionTask(with: recognizerRequest, delegate: self)
-    recognitionTask = recognizer?.recognitionTask(with: recognizerRequest) { (result, error) in
-      if let error = error {
-        logger.error(error: error)
-      }
-      
-      guard let result = result else {
-        logger.error(message: "no result from recognition task result handler")
-        return
-      }
-
-      if result.isFinal {
-        logger.debug(message: "result.isFinal")
-        logger.debug(message: result.bestTranscription.formattedString)
-      }
-    }
+    isListening = true
+    startButton.isEnabled = false
+    stopButton.isEnabled = true
     
-    DispatchQueue.main.asyncAfter(deadline: .now() + secondsPerTask) {
-      self.recognizerRequest.endAudio()
-      self.recognitionTask?.finish()
-      self.engine.stop()
-      self.engine.inputNode.removeTap(onBus: self.inputNodeBus)
-      
-      // hmm...
-      DispatchQueue.main.asyncAfter(deadline: .now() + 5.0, execute: {
-        self.startListening()
-      })
-    }
+    recognitionTask = recognizer?.recognitionTask(with: recognizerRequest, delegate: self)
+    writeLogForMinute()
   }
   
   func stopListening() {
@@ -162,17 +132,12 @@ class ViewController: UIViewController {
     recognitionTask?.finish()
     engine.stop()
     engine.inputNode.removeTap(onBus: self.inputNodeBus)
-    self.recognitionTask = nil
-    self.recognizerRequest = nil
     deactivateAudio()
     
-    stopButton.isEnabled = false
     startButton.isEnabled = true
+    stopButton.isEnabled = false
+    isListening = false
   }
-}
-
-// MARK: - Utils
-extension ViewController {
   
   func activateAudio() {
     do {
@@ -219,30 +184,46 @@ extension ViewController {
       }
     }
   }
+  
+  func writeLogForMinute() {
+    logger.debug(message: "RecognitionTask State [initial]:\(recognitionTask!.state.rawValue)")
+    
+    DispatchQueue.main.asyncAfter(deadline: .now() + 15.0) {
+      logger.debug(message: "RecognitionTask State [+15.0]:\(self.recognitionTask!.state.rawValue)")
+    }
+    DispatchQueue.main.asyncAfter(deadline: .now() + 55.0) {
+      logger.debug(message: "RecognitionTask State [+55.0]:\(self.recognitionTask!.state.rawValue)")
+    }
+    DispatchQueue.main.asyncAfter(deadline: .now() + 65.0) {
+      logger.debug(message: "RecognitionTask State [+65.0]:\(self.recognitionTask!.state.rawValue)")
+    }
+  }
 }
 
-// MARK: - SFSpeechRecognitionTaskDelegate
 extension ViewController: SFSpeechRecognitionTaskDelegate {
-
+  // beginning a task
+  func speechRecognitionDidDetectSpeech(_ task: SFSpeechRecognitionTask) {
+    logger.info(message: "# [speechRecognitionDidDetectSpeech]")
+  }
+  
   // finishing a task
   func speechRecognitionTask(_ task: SFSpeechRecognitionTask, didFinishRecognition recognitionResult: SFSpeechRecognitionResult) {
-    logger.info(message: "didFinishRecognition")
+    logger.info(message: "# [didFinishRecognition]")
     logger.debug(message: recognitionResult.description)
   }
   
   func speechRecognitionTask(_ task: SFSpeechRecognitionTask, didFinishSuccessfully successfully: Bool) {
-    logger.info(message: "didFinishSuccessfully")
+    logger.info(message: "# [didFinishSuccessfully]")
     if successfully == true {
-      logger.info(message: "successfully == true")
+      logger.debug(message: "successfully == true")
     }
     else {
-      logger.info(message: "successfully == false")
+      logger.debug(message: "successfully == false")
     }
-    logger.info(message: "# [END Recognition Task \(counter)]\n")
   }
   
   func speechRecognitionTaskFinishedReadingAudio(_ task: SFSpeechRecognitionTask) {
-    logger.info(message: "speechRecognitionTaskFinishedReadingAudio")
+    logger.info(message: "# [speechRecognitionTaskFinishedReadingAudio]")
     if task.isFinishing {
       logger.debug(message: "task isFinishing")
     }
@@ -252,6 +233,19 @@ extension ViewController: SFSpeechRecognitionTaskDelegate {
   }
   
   func speechRecognitionTaskWasCancelled(_ task: SFSpeechRecognitionTask) {
-    logger.info(message: "speechRecognitionTaskWasCancelled")
+    logger.info(message: "# [speechRecognitionTaskWasCancelled]")
+  }
+  
+  // getting a transcript
+  func speechRecognitionTask(_ task: SFSpeechRecognitionTask, didHypothesizeTranscription transcription: SFTranscription) {
+    logger.info(message: "# [didHypothesizeTranscript]")
+    logger.debug(message: transcription.description)
+    
+    if task.isFinishing {
+      logger.debug(message: "task isFinishing")
+    }
+    if task.isCancelled {
+      logger.debug(message: "task isCancelled")
+    }
   }
 }
