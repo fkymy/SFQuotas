@@ -1,0 +1,19 @@
+testing apple's speech quotas and limits
+
+SpeechRecognitionTaskState:
+  starting = 0
+  running = 1
+  finishing = 2
+  canceling = 3
+  completed = 4
+
+
+[memo]
+
+- On cancellation, task recognition task is disposed with kAFAssistantErrorDomain error 216 (the operation couldn’t be completed). Interruption does not affect the next task.
+
+- At a minute mark, task is forced to stop accepting new input (RecognitionTaskState goes from 1 to 4) and didFinishRecognition is called. success flag is true.
+
+- Error Domain=kAFAssistantErrorDomain Code=209 "(null)" often appears in consecutive recognition calls when the recognizer tries to start a new task before finishing with the best transcription result.
+
+- Error Domain=kAFAssistantErrorDomain Code=203 "Retry" just seemed to be bad input, but they say its something else https://developer.apple.com/library/archive/qa/qa1951/_index.html#//apple_ref/doc/uid/DTS40017662
