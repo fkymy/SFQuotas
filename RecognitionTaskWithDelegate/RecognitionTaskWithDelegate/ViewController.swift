@@ -130,7 +130,6 @@ class ViewController: UIViewController, SFSpeechRecognizerDelegate {
   func stopListening() {
     logger.info(message: "stopListening")
 
-    
     recognizerRequest.endAudio()
     recognitionTask?.finish()
     engine.stop()

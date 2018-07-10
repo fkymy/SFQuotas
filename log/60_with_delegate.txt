@@ -1,0 +1,752 @@
+2018-07-10 20:37:34.210683+0900 RecognitionTaskWithDelegate[21089:5954657] [info] activating audio
+2018-07-10 20:37:34.434380+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] RecognitionTask State [initial]:0
+2018-07-10 20:37:46.592756+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:46.592967+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:46.593364+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c8027e00>, formattedString=朝, segments=(
+    "<SFTranscriptionSegment: 0x1c809d330>, substringRange={0, 1}, timestamp=0, duration=11.67, confidence=0, substring=\U671d, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:46.593517+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:46.694068+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:46.694280+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:46.694655+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027f60>, formattedString=朝, segments=(
+    "<SFTranscriptionSegment: 0x1cc09bb20>, substringRange={0, 1}, timestamp=11.11, duration=0.620000000000001, confidence=0.889, substring=\U671d, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:46.694794+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:49.863919+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:49.864136+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:49.864507+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c4029560>, formattedString=朝目を, segments=(
+    "<SFTranscriptionSegment: 0x1c409bfd0>, substringRange={0, 3}, timestamp=0, duration=14.87, confidence=0, substring=\U671d\U76ee\U3092, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:49.864690+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:49.864999+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] RecognitionTask State [+15.0]:1
+2018-07-10 20:37:50.196571+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:50.196774+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:50.197138+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c4029e00>, formattedString=朝目を覚ます, segments=(
+    "<SFTranscriptionSegment: 0x1c409bfd0>, substringRange={0, 6}, timestamp=0, duration=15.36, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:50.197285+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:50.586715+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:50.586922+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:50.587292+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027020>, formattedString=朝目を覚ますとき, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c7a0>, substringRange={0, 8}, timestamp=0, duration=15.66, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:50.587442+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:50.700926+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:50.701139+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:50.701505+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c4029560>, formattedString=朝目を覚ますときの, segments=(
+    "<SFTranscriptionSegment: 0x1c409c1b0>, substringRange={0, 9}, timestamp=0, duration=15.73, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:50.701649+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:51.188520+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:51.188728+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:51.189100+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c4027400>, formattedString=朝目を覚ますときの気持ち, segments=(
+    "<SFTranscriptionSegment: 0x1c409c1b0>, substringRange={0, 12}, timestamp=0, duration=16.17, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:51.189287+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:51.387296+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:51.387531+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:51.387914+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027f00>, formattedString=朝目を覚ますときの気持ちは, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c700>, substringRange={0, 13}, timestamp=0, duration=16.39, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:51.388127+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:51.548266+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:51.548480+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:51.548857+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc028d60>, formattedString=朝目を覚ますときの気持ちは, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c7a0>, substringRange={0, 13}, timestamp=0, duration=16.5, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:51.549006+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:51.651287+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:51.651497+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:51.652701+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc028c00>, formattedString=朝目を覚ますときの気持ちは, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c700>, substringRange={0, 1}, timestamp=11.11, duration=3.23, confidence=0.92, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c7a0>, substringRange={1, 1}, timestamp=14.34, duration=0.2599999999999998, confidence=0.92, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c6b0>, substringRange={2, 1}, timestamp=14.6, duration=0.1300000000000008, confidence=0.899, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c7f0>, substringRange={3, 3}, timestamp=14.73, duration=0.4499999999999993, confidence=0.925, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c750>, substringRange={6, 2}, timestamp=15.18, duration=0.25, confidence=0.889, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c840>, substringRange={8, 1}, timestamp=15.43, duration=0.1000000000000014, confidence=0.893, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09bb20>, substringRange={9, 3}, timestamp=15.53, duration=0.4599999999999991, confidence=0.933, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c610>, substringRange={12, 1}, timestamp=15.99, duration=0.5099999999999998, confidence=0.663, substring=\U306f, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:51.653410+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:53.205109+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:53.205315+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:53.205699+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c40277a0>, formattedString=朝目を覚ますときの気持ちは面白い, segments=(
+    "<SFTranscriptionSegment: 0x1c409c1b0>, substringRange={0, 16}, timestamp=0, duration=18.37, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:53.205847+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:53.521528+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:53.521757+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:53.522145+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c0027b40>, formattedString=朝目を覚ますときの気持ちは面白い, segments=(
+    "<SFTranscriptionSegment: 0x1c009c520>, substringRange={0, 16}, timestamp=0, duration=18.5, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:53.522311+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:53.641407+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:53.641618+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:53.643207+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027f00>, formattedString=朝目を覚ますときの気持ちは面白い, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c5c0>, substringRange={0, 1}, timestamp=11.11, duration=3.23, confidence=0.922, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c610>, substringRange={1, 1}, timestamp=14.34, duration=0.2599999999999998, confidence=0.921, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09bb20>, substringRange={2, 1}, timestamp=14.6, duration=0.1300000000000008, confidence=0.9, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c840>, substringRange={3, 3}, timestamp=14.73, duration=0.4499999999999993, confidence=0.926, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c750>, substringRange={6, 2}, timestamp=15.18, duration=0.25, confidence=0.886, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c7f0>, substringRange={8, 1}, timestamp=15.43, duration=0.1000000000000014, confidence=0.886, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c6b0>, substringRange={9, 3}, timestamp=15.53, duration=0.4599999999999991, confidence=0.935, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c700>, substringRange={12, 1}, timestamp=15.99, duration=1.660000000000002, confidence=0.775, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c570>, substringRange={13, 3}, timestamp=17.65, duration=0.8499999999999979, confidence=0.919, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:53.643902+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:57.787241+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:57.787450+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:57.787811+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c8027dc0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼ, segments=(
+    "<SFTranscriptionSegment: 0x1c809d240>, substringRange={0, 21}, timestamp=0, duration=22.81, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:57.787956+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:57.881754+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:57.881955+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:57.882336+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c402a360>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの, segments=(
+    "<SFTranscriptionSegment: 0x1c409c020>, substringRange={0, 22}, timestamp=0, duration=22.9, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:57.882493+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:58.182278+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:58.182497+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:58.183007+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c4029660>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時, segments=(
+    "<SFTranscriptionSegment: 0x1c409bf80>, substringRange={0, 23}, timestamp=0, duration=23.25, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:58.183327+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:58.720357+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:58.720591+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:58.721062+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc028960>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c6b0>, substringRange={0, 23}, timestamp=0, duration=23.56, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:58.721213+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:37:58.905146+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:37:58.905366+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:37:58.907228+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027f60>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c750>, substringRange={0, 1}, timestamp=11.11, duration=3.23, confidence=0.923, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c6b0>, substringRange={1, 1}, timestamp=14.34, duration=0.2599999999999998, confidence=0.922, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c7f0>, substringRange={2, 1}, timestamp=14.6, duration=0.1300000000000008, confidence=0.9, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c840>, substringRange={3, 3}, timestamp=14.73, duration=0.4499999999999993, confidence=0.927, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09bb20>, substringRange={6, 2}, timestamp=15.18, duration=0.25, confidence=0.882, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c610>, substringRange={8, 1}, timestamp=15.43, duration=0.1000000000000014, confidence=0.878, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c5c0>, substringRange={9, 3}, timestamp=15.53, duration=0.4599999999999991, confidence=0.936, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c4d0>, substringRange={12, 1}, timestamp=15.99, duration=1.660000000000002, confidence=0.774, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c480>, substringRange={13, 3}, timestamp=17.65, duration=4.409999999999997, confidence=0.898, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c2a0>, substringRange={16, 5}, timestamp=22.06, duration=0.5600000000000023, confidence=0.899, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c250>, substringRange={21, 1}, timestamp=22.62, duration=0.129999999999999, confidence=0.921, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c520>, substringRange={22, 1}, timestamp=22.75, duration=0.8099999999999987, confidence=0.921, substring=\U6642, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:37:58.907975+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:01.615338+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:01.615548+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:01.615924+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc0270a0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れ, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c4d0>, substringRange={0, 27}, timestamp=0, duration=26.8, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:01.616066+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:01.797042+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:01.797249+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:01.797658+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027520>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c250>, substringRange={0, 28}, timestamp=0, duration=26.92, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:01.797914+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:02.429712+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:02.429928+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:02.430349+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc026f20>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの間, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c4d0>, substringRange={0, 29}, timestamp=0, duration=27.48, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U9593, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:02.430576+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:02.608727+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:02.608939+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:02.609360+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c4028ac0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの間位, segments=(
+    "<SFTranscriptionSegment: 0x1c409bfd0>, substringRange={0, 30}, timestamp=0, duration=27.49, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U9593\U4f4d, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:02.609583+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:02.819273+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:02.819473+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:02.819841+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc0270a0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い位, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c4d0>, substringRange={0, 33}, timestamp=0, duration=27.88, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4f4d, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:02.820003+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:02.919686+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:02.919893+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:02.920289+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027fe0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中に, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c480>, substringRange={0, 34}, timestamp=0, duration=27.92, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:02.920450+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:03.415482+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:03.415696+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:03.416103+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027520>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中に, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c480>, substringRange={0, 34}, timestamp=0, duration=28.09, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:03.416291+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:03.522937+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:03.523143+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:03.525613+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027ea0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中に, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c4d0>, substringRange={0, 1}, timestamp=11.11, duration=3.23, confidence=0.922, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c2a0>, substringRange={1, 1}, timestamp=14.34, duration=0.2599999999999998, confidence=0.922, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c250>, substringRange={2, 1}, timestamp=14.6, duration=0.1300000000000008, confidence=0.899, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c2f0>, substringRange={3, 3}, timestamp=14.73, duration=0.4499999999999993, confidence=0.926, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c520>, substringRange={6, 2}, timestamp=15.18, duration=0.25, confidence=0.881, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09bb20>, substringRange={8, 1}, timestamp=15.43, duration=0.1000000000000014, confidence=0.874, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c610>, substringRange={9, 3}, timestamp=15.53, duration=0.4599999999999991, confidence=0.935, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c7f0>, substringRange={12, 1}, timestamp=15.99, duration=1.660000000000002, confidence=0.781, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c6b0>, substringRange={13, 3}, timestamp=17.65, duration=4.409999999999997, confidence=0.898, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c750>, substringRange={16, 5}, timestamp=22.06, duration=0.5600000000000023, confidence=0.895, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c0c0>, substringRange={21, 1}, timestamp=22.62, duration=0.129999999999999, confidence=0.921, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c840>, substringRange={22, 1}, timestamp=22.75, duration=3.379999999999999, confidence=0.921, substring=\U6642, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c160>, substringRange={23, 4}, timestamp=26.13, duration=0.490000000000002, confidence=0.9, substring=\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c1b0>, substringRange={27, 1}, timestamp=26.62, duration=0.129999999999999, confidence=0.935, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c020>, substringRange={28, 4}, timestamp=26.75, duration=0.5600000000000023, confidence=0.449, substring=\U771f\U3063\U9ed2\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c070>, substringRange={32, 2}, timestamp=27.31, duration=0.7799999999999976, confidence=0.362, substring=\U4e2d\U306b, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:03.526496+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:04.044004+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:04.044213+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:04.044606+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c0027c20>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にじっと, segments=(
+    "<SFTranscriptionSegment: 0x1c009bcb0>, substringRange={0, 37}, timestamp=0, duration=29.17, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U3058\U3063\U3068, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:04.044758+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:04.472317+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:04.472533+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:04.473010+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc028a20>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にじっと, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c480>, substringRange={0, 37}, timestamp=0, duration=29.34, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U3058\U3063\U3068, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:04.473217+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:04.577122+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:04.577333+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:04.579688+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c8027e80>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にじっと, segments=(
+    "<SFTranscriptionSegment: 0x1c809d150>, substringRange={0, 1}, timestamp=11.11, duration=3.23, confidence=0.924, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d240>, substringRange={1, 1}, timestamp=14.34, duration=0.2599999999999998, confidence=0.924, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d290>, substringRange={2, 1}, timestamp=14.6, duration=0.1300000000000008, confidence=0.901, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d330>, substringRange={3, 3}, timestamp=14.73, duration=0.4499999999999993, confidence=0.928, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d380>, substringRange={6, 2}, timestamp=15.18, duration=0.25, confidence=0.884, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d0b0>, substringRange={8, 1}, timestamp=15.43, duration=0.1000000000000014, confidence=0.879, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d100>, substringRange={9, 3}, timestamp=15.53, duration=0.4599999999999991, confidence=0.937, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d010>, substringRange={12, 1}, timestamp=15.99, duration=1.660000000000002, confidence=0.779, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809cfc0>, substringRange={13, 3}, timestamp=17.65, duration=4.409999999999997, confidence=0.898, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809cf70>, substringRange={16, 5}, timestamp=22.06, duration=0.5600000000000023, confidence=0.897, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809cf20>, substringRange={21, 1}, timestamp=22.62, duration=0.129999999999999, confidence=0.922, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d060>, substringRange={22, 1}, timestamp=22.75, duration=3.379999999999999, confidence=0.923, substring=\U6642, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809ced0>, substringRange={23, 4}, timestamp=26.13, duration=0.490000000000002, confidence=0.902, substring=\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809ce80>, substringRange={27, 1}, timestamp=26.62, duration=0.129999999999999, confidence=0.932, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809ce30>, substringRange={28, 4}, timestamp=26.75, duration=0.5600000000000023, confidence=0.696, substring=\U771f\U3063\U9ed2\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809cde0>, substringRange={32, 2}, timestamp=27.31, duration=1.109999999999999, confidence=0.776, substring=\U4e2d\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809cd90>, substringRange={34, 3}, timestamp=28.42, duration=0.9199999999999982, confidence=0.119, substring=\U3058\U3063\U3068, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:04.580532+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:05.001741+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:05.001961+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:05.002372+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c0027ca0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっと, segments=(
+    "<SFTranscriptionSegment: 0x1c009bd50>, substringRange={0, 37}, timestamp=0, duration=30.1, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:05.002562+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:05.197548+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:05.197761+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:05.198221+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c40277a0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで, segments=(
+    "<SFTranscriptionSegment: 0x1c409c070>, substringRange={0, 42}, timestamp=0, duration=30.24, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:05.198400+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:05.599161+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:05.599358+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:05.599759+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c8027e80>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れて, segments=(
+    "<SFTranscriptionSegment: 0x1c809cd90>, substringRange={0, 45}, timestamp=0, duration=30.77, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:05.599915+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:05.981436+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:05.981631+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:05.982026+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c4028e80>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて, segments=(
+    "<SFTranscriptionSegment: 0x1c409c070>, substringRange={0, 47}, timestamp=0, duration=31.09, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:05.982175+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:06.335605+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:06.335838+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:06.336481+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc0270a0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c070>, substringRange={0, 47}, timestamp=0, duration=31.16, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:06.336732+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:06.440559+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:06.440756+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:06.443466+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c80279c0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて, segments=(
+    "<SFTranscriptionSegment: 0x1c809cd90>, substringRange={0, 1}, timestamp=11.11, duration=3.23, confidence=0.929, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809cde0>, substringRange={1, 1}, timestamp=14.34, duration=0.2599999999999998, confidence=0.928, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809ce30>, substringRange={2, 1}, timestamp=14.6, duration=0.1300000000000008, confidence=0.908, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809ce80>, substringRange={3, 3}, timestamp=14.73, duration=0.4499999999999993, confidence=0.932, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809ced0>, substringRange={6, 2}, timestamp=15.18, duration=0.25, confidence=0.893, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d060>, substringRange={8, 1}, timestamp=15.43, duration=0.1000000000000014, confidence=0.89, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809cf20>, substringRange={9, 3}, timestamp=15.53, duration=0.4599999999999991, confidence=0.941, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809cfc0>, substringRange={12, 1}, timestamp=15.99, duration=1.660000000000002, confidence=0.782, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d010>, substringRange={13, 3}, timestamp=17.65, duration=4.409999999999997, confidence=0.906, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d100>, substringRange={16, 5}, timestamp=22.06, duration=0.5600000000000023, confidence=0.903, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d0b0>, substringRange={21, 1}, timestamp=22.62, duration=0.129999999999999, confidence=0.927, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809cf70>, substringRange={22, 1}, timestamp=22.75, duration=3.379999999999999, confidence=0.927, substring=\U6642, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d380>, substringRange={23, 4}, timestamp=26.13, duration=0.490000000000002, confidence=0.908, substring=\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d330>, substringRange={27, 1}, timestamp=26.62, duration=0.129999999999999, confidence=0.937, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d290>, substringRange={28, 4}, timestamp=26.75, duration=0.5600000000000023, confidence=0.626, substring=\U771f\U3063\U9ed2\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d240>, substringRange={32, 2}, timestamp=27.31, duration=1.119999999999997, confidence=0.6, substring=\U4e2d\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809d150>, substringRange={34, 3}, timestamp=28.43, duration=0.9800000000000004, confidence=0.6, substring=\U305a\U3063\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809cd40>, substringRange={37, 5}, timestamp=29.41, duration=0.6400000000000006, confidence=0.923, substring=\U3057\U3083\U304c\U3093\U3067, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809ccf0>, substringRange={42, 3}, timestamp=30.05, duration=0.5599999999999987, confidence=0.925, substring=\U96a0\U308c\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c809c480>, substringRange={45, 2}, timestamp=30.61, duration=0.5500000000000007, confidence=0.927, substring=\U3044\U3066, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:06.444299+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:07.588764+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:07.588966+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:07.589343+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c0027ca0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然, segments=(
+    "<SFTranscriptionSegment: 0x1c009bd50>, substringRange={0, 49}, timestamp=0, duration=32.73, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:07.589496+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:08.145977+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:08.146145+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:08.146449+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c8027e20>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然, segments=(
+    "<SFTranscriptionSegment: 0x1c809c480>, substringRange={0, 49}, timestamp=0, duration=32.84, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:08.146596+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:08.250617+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:08.250811+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:08.253727+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c0027d20>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然, segments=(
+    "<SFTranscriptionSegment: 0x1c009bf30>, substringRange={0, 1}, timestamp=11.11, duration=3.23, confidence=0.93, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009bd50>, substringRange={1, 1}, timestamp=14.34, duration=0.2599999999999998, confidence=0.929, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c4d0>, substringRange={2, 1}, timestamp=14.6, duration=0.1300000000000008, confidence=0.909, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c340>, substringRange={3, 3}, timestamp=14.73, duration=0.4499999999999993, confidence=0.933, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c480>, substringRange={6, 2}, timestamp=15.18, duration=0.25, confidence=0.895, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c520>, substringRange={8, 1}, timestamp=15.43, duration=0.1000000000000014, confidence=0.893, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c110>, substringRange={9, 3}, timestamp=15.53, duration=0.4599999999999991, confidence=0.942, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c160>, substringRange={12, 1}, timestamp=15.99, duration=1.660000000000002, confidence=0.784, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c430>, substringRange={13, 3}, timestamp=17.65, duration=4.409999999999997, confidence=0.907, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c0c0>, substringRange={16, 5}, timestamp=22.06, duration=0.5600000000000023, confidence=0.907, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c3e0>, substringRange={21, 1}, timestamp=22.62, duration=0.129999999999999, confidence=0.928, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c390>, substringRange={22, 1}, timestamp=22.75, duration=3.379999999999999, confidence=0.928, substring=\U6642, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c020>, substringRange={23, 4}, timestamp=26.13, duration=0.490000000000002, confidence=0.909, substring=\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c070>, substringRange={27, 1}, timestamp=26.62, duration=0.129999999999999, confidence=0.939, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009bfd0>, substringRange={28, 4}, timestamp=26.75, duration=0.5600000000000023, confidence=0.622, substring=\U771f\U3063\U9ed2\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009bee0>, substringRange={32, 2}, timestamp=27.31, duration=1.119999999999997, confidence=0.602, substring=\U4e2d\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009bc10>, substringRange={34, 3}, timestamp=28.43, duration=0.9800000000000004, confidence=0.603, substring=\U305a\U3063\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009bbc0>, substringRange={37, 5}, timestamp=29.41, duration=0.6400000000000006, confidence=0.926, substring=\U3057\U3083\U304c\U3093\U3067, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009bb20>, substringRange={42, 3}, timestamp=30.05, duration=0.5599999999999987, confidence=0.924, substring=\U96a0\U308c\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009be90>, substringRange={45, 2}, timestamp=30.61, duration=1.330000000000002, confidence=0.927, substring=\U3044\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009bf80>, substringRange={47, 2}, timestamp=31.94, duration=0.9000000000000021, confidence=0.929, substring=\U7a81\U7136, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:08.254704+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:09.009496+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:09.009711+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:09.010102+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c0027e60>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん, segments=(
+    "<SFTranscriptionSegment: 0x1c009bf80>, substringRange={0, 54}, timestamp=0, duration=34.04, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:09.010341+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:09.210402+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:09.210605+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:09.210986+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c40288e0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃんに, segments=(
+    "<SFTranscriptionSegment: 0x1c409c070>, substringRange={0, 55}, timestamp=0, duration=34.22, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U306b, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:09.211148+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:09.430297+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:09.430495+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:09.430868+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027860>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c020>, substringRange={0, 55}, timestamp=0, duration=34.44, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:09.431027+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:09.646082+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:09.646277+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:09.646812+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c8027e60>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと, segments=(
+    "<SFTranscriptionSegment: 0x1c809c480>, substringRange={0, 59}, timestamp=0, duration=34.67, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:09.647024+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:10.197645+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:10.197869+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:10.198278+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c0027c20>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと麩, segments=(
+    "<SFTranscriptionSegment: 0x1c009be90>, substringRange={0, 60}, timestamp=0, duration=35.24, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U9ea9, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:10.198460+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:10.587278+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:10.587480+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:10.587876+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c4028ac0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと襖, segments=(
+    "<SFTranscriptionSegment: 0x1c409c070>, substringRange={0, 60}, timestamp=0, duration=35.61, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U8956, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:10.588042+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:10.690041+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:10.690237+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:10.690608+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027ea0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと襖を, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c020>, substringRange={0, 61}, timestamp=0, duration=35.69, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U8956\U3092, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:10.690763+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:10.797110+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:10.797285+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:10.797670+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c4029560>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと襖を開けられ, segments=(
+    "<SFTranscriptionSegment: 0x1c409bdf0>, substringRange={0, 65}, timestamp=0, duration=35.77, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U8956\U3092\U958b\U3051\U3089\U308c, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:10.797830+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:11.362183+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:11.362387+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:11.362812+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027860>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃんにガラッと襖を開けられ, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c5c0>, substringRange={0, 65}, timestamp=0, duration=35.87, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U306b\U30ac\U30e9\U30c3\U3068\U8956\U3092\U958b\U3051\U3089\U308c, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:11.362976+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:11.468128+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:11.468342+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:11.471749+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027d20>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃんにガラッと襖を開けられ, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c480>, substringRange={0, 1}, timestamp=11.11, duration=3.23, confidence=0.931, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c070>, substringRange={1, 1}, timestamp=14.34, duration=0.2599999999999998, confidence=0.931, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c1b0>, substringRange={2, 1}, timestamp=14.6, duration=0.1300000000000008, confidence=0.911, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c160>, substringRange={3, 3}, timestamp=14.73, duration=0.4499999999999993, confidence=0.935, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c840>, substringRange={6, 2}, timestamp=15.18, duration=0.25, confidence=0.895, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c0c0>, substringRange={8, 1}, timestamp=15.43, duration=0.1000000000000014, confidence=0.89, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c750>, substringRange={9, 3}, timestamp=15.53, duration=0.4599999999999991, confidence=0.943, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c7f0>, substringRange={12, 1}, timestamp=15.99, duration=1.660000000000002, confidence=0.797, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c610>, substringRange={13, 3}, timestamp=17.65, duration=4.409999999999997, confidence=0.909, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09bb20>, substringRange={16, 5}, timestamp=22.06, duration=0.5600000000000023, confidence=0.909, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c520>, substringRange={21, 1}, timestamp=22.62, duration=0.129999999999999, confidence=0.93, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c6b0>, substringRange={22, 1}, timestamp=22.75, duration=3.379999999999999, confidence=0.93, substring=\U6642, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c2f0>, substringRange={23, 4}, timestamp=26.13, duration=0.490000000000002, confidence=0.911, substring=\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c250>, substringRange={27, 1}, timestamp=26.62, duration=0.129999999999999, confidence=0.94, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c2a0>, substringRange={28, 4}, timestamp=26.75, duration=0.5600000000000023, confidence=0.685, substring=\U771f\U3063\U9ed2\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c4d0>, substringRange={32, 2}, timestamp=27.31, duration=1.119999999999997, confidence=0.629, substring=\U4e2d\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c110>, substringRange={34, 3}, timestamp=28.43, duration=0.9800000000000004, confidence=0.616, substring=\U305a\U3063\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09bee0>, substringRange={37, 5}, timestamp=29.41, duration=0.6400000000000006, confidence=0.926, substring=\U3057\U3083\U304c\U3093\U3067, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09bdf0>, substringRange={42, 3}, timestamp=30.05, duration=0.5599999999999987, confidence=0.928, substring=\U96a0\U308c\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09bfd0>, substringRange={45, 2}, timestamp=30.61, duration=1.330000000000002, confidence=0.929, substring=\U3044\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c200>, substringRange={47, 2}, timestamp=31.94, duration=1.41, confidence=0.932, substring=\U7a81\U7136, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09bf80>, substringRange={49, 5}, timestamp=33.35, duration=0.519999999999996, confidence=0.819, substring=\U3067\U3053\U3061\U3083\U3093, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09bd00>, substringRange={54, 1}, timestamp=33.87, duration=0.1700000000000017, confidence=0.706, substring=\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c9d0>, substringRange={55, 4}, timestamp=34.04, duration=0.4400000000000048, confidence=0.397, substring=\U30ac\U30e9\U30c3\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c980>, substringRange={59, 1}, timestamp=34.48, duration=0.5399999999999991, confidence=0.107, substring=\U8956, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c930>, substringRange={60, 1}, timestamp=35.02, duration=0.03999999999999915, confidence=0.264, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c8e0>, substringRange={61, 4}, timestamp=35.06, duration=0.8099999999999952, confidence=0.399, substring=\U958b\U3051\U3089\U308c, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:11.472731+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:13.970489+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:13.970707+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:13.971187+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c0027a20>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと襖を開けられの, segments=(
+    "<SFTranscriptionSegment: 0x1c009bf80>, substringRange={0, 66}, timestamp=0, duration=38.93, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U8956\U3092\U958b\U3051\U3089\U308c\U306e, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:13.971462+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:14.009197+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:14.009385+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:14.009705+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c4028180>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと麩分けられ日の光, segments=(
+    "<SFTranscriptionSegment: 0x1c409bdf0>, substringRange={0, 67}, timestamp=0, duration=38.94, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U9ea9\U5206\U3051\U3089\U308c\U65e5\U306e\U5149, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:14.009818+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:14.094780+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:14.094978+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:14.095454+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027320>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと麩分けられ日の光が, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c930>, substringRange={0, 68}, timestamp=0, duration=39.12, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U9ea9\U5206\U3051\U3089\U308c\U65e5\U306e\U5149\U304c, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:14.095669+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:14.577688+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:14.577884+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:14.578269+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c8027e60>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと麩分けられ日の光がどっと, segments=(
+    "<SFTranscriptionSegment: 0x1c809c480>, substringRange={0, 71}, timestamp=0, duration=39.6, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U9ea9\U5206\U3051\U3089\U308c\U65e5\U306e\U5149\U304c\U3069\U3063\U3068, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:14.578419+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:14.970613+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:14.970812+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:14.971202+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c4028180>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと麩分けられ日の光がどっときて, segments=(
+    "<SFTranscriptionSegment: 0x1c409bdf0>, substringRange={0, 73}, timestamp=0, duration=39.94, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U9ea9\U5206\U3051\U3089\U308c\U65e5\U306e\U5149\U304c\U3069\U3063\U3068\U304d\U3066, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:14.971358+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:15.738040+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:15.738206+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:15.738565+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027ea0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃんにガラッと襖を開けられヒノヒカリがどっときて, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c8e0>, substringRange={0, 76}, timestamp=0, duration=40.01, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U306b\U30ac\U30e9\U30c3\U3068\U8956\U3092\U958b\U3051\U3089\U308c\U30d2\U30ce\U30d2\U30ab\U30ea\U304c\U3069\U3063\U3068\U304d\U3066, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:15.738738+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:15.850902+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:15.851078+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:15.854971+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c0027be0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃんにガラッと襖を開けられヒノヒカリがどっときて, segments=(
+    "<SFTranscriptionSegment: 0x1c009bf80>, substringRange={0, 1}, timestamp=11.11, duration=3.23, confidence=0.933, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009be90>, substringRange={1, 1}, timestamp=14.34, duration=0.2599999999999998, confidence=0.933, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009bb20>, substringRange={2, 1}, timestamp=14.6, duration=0.1300000000000008, confidence=0.914, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009bbc0>, substringRange={3, 3}, timestamp=14.73, duration=0.4499999999999993, confidence=0.937, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009bc10>, substringRange={6, 2}, timestamp=15.18, duration=0.25, confidence=0.902, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009bee0>, substringRange={8, 1}, timestamp=15.43, duration=0.1000000000000014, confidence=0.901, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009bfd0>, substringRange={9, 3}, timestamp=15.53, duration=0.4599999999999991, confidence=0.945, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c020>, substringRange={12, 1}, timestamp=15.99, duration=1.660000000000002, confidence=0.786, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c390>, substringRange={13, 3}, timestamp=17.65, duration=4.409999999999997, confidence=0.909, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c3e0>, substringRange={16, 5}, timestamp=22.06, duration=0.5600000000000023, confidence=0.909, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c0c0>, substringRange={21, 1}, timestamp=22.62, duration=0.129999999999999, confidence=0.932, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c070>, substringRange={22, 1}, timestamp=22.75, duration=3.379999999999999, confidence=0.931, substring=\U6642, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c430>, substringRange={23, 4}, timestamp=26.13, duration=0.490000000000002, confidence=0.914, substring=\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c160>, substringRange={27, 1}, timestamp=26.62, duration=0.129999999999999, confidence=0.942, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c110>, substringRange={28, 4}, timestamp=26.75, duration=0.5600000000000023, confidence=0.574, substring=\U771f\U3063\U9ed2\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c520>, substringRange={32, 2}, timestamp=27.31, duration=1.119999999999997, confidence=0.594, substring=\U4e2d\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c480>, substringRange={34, 3}, timestamp=28.43, duration=0.9800000000000004, confidence=0.611, substring=\U305a\U3063\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c340>, substringRange={37, 5}, timestamp=29.41, duration=0.6400000000000006, confidence=0.93, substring=\U3057\U3083\U304c\U3093\U3067, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c4d0>, substringRange={42, 3}, timestamp=30.05, duration=0.5599999999999987, confidence=0.928, substring=\U96a0\U308c\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009bd50>, substringRange={45, 2}, timestamp=30.61, duration=1.330000000000002, confidence=0.932, substring=\U3044\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009bf30>, substringRange={47, 2}, timestamp=31.94, duration=1.41, confidence=0.934, substring=\U7a81\U7136, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009bdf0>, substringRange={49, 5}, timestamp=33.35, duration=0.519999999999996, confidence=0.681, substring=\U3067\U3053\U3061\U3083\U3093, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009bd00>, substringRange={54, 1}, timestamp=33.87, duration=0.1700000000000017, confidence=0.388, substring=\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c200>, substringRange={55, 4}, timestamp=34.04, duration=0.4400000000000048, confidence=0.358, substring=\U30ac\U30e9\U30c3\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c250>, substringRange={59, 1}, timestamp=34.48, duration=0.5399999999999991, confidence=0.119, substring=\U8956, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c2a0>, substringRange={60, 1}, timestamp=35.02, duration=0.03999999999999915, confidence=0.23, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c2f0>, substringRange={61, 4}, timestamp=35.06, duration=2.939999999999998, confidence=0.484, substring=\U958b\U3051\U3089\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c1b0>, substringRange={65, 5}, timestamp=38, duration=0.7899999999999991, confidence=0.438, substring=\U30d2\U30ce\U30d2\U30ab\U30ea, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009be40>, substringRange={70, 1}, timestamp=38.79, duration=0.1300000000000026, confidence=0.784, substring=\U304c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c570>, substringRange={71, 3}, timestamp=38.92, duration=0.4499999999999957, confidence=0.93, substring=\U3069\U3063\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c009c5c0>, substringRange={74, 2}, timestamp=39.37, duration=0.6400000000000006, confidence=0.9, substring=\U304d\U3066, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:15.856282+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:21.425840+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:21.426042+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:21.426456+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027c60>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと麩分けられ日の光がどっときてね, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c660>, substringRange={0, 74}, timestamp=0, duration=46.51, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U9ea9\U5206\U3051\U3089\U308c\U65e5\U306e\U5149\U304c\U3069\U3063\U3068\U304d\U3066\U306d, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:21.426618+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:21.629867+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:21.630072+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:21.630579+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027f00>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと麩分けられ日の光がどっときて猫, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c660>, substringRange={0, 74}, timestamp=0, duration=46.75, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U9ea9\U5206\U3051\U3089\U308c\U65e5\U306e\U5149\U304c\U3069\U3063\U3068\U304d\U3066\U732b, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:21.630748+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:21.809847+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:21.810052+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:21.810376+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c8027fe0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと麩分けられ日の光がどっときて猫ちゃん, segments=(
+    "<SFTranscriptionSegment: 0x1c809d150>, substringRange={0, 77}, timestamp=0, duration=46.84, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U9ea9\U5206\U3051\U3089\U308c\U65e5\U306e\U5149\U304c\U3069\U3063\U3068\U304d\U3066\U732b\U3061\U3083\U3093, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:21.810522+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:22.000133+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:22.000275+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:22.000493+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c8026f80>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと麩分けられ日の光がどっときて猫ちゃんに, segments=(
+    "<SFTranscriptionSegment: 0x1c809d150>, substringRange={0, 78}, timestamp=0, duration=47.06, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U9ea9\U5206\U3051\U3089\U308c\U65e5\U306e\U5149\U304c\U3069\U3063\U3068\U304d\U3066\U732b\U3061\U3083\U3093\U306b, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:22.000586+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:27.815321+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:27.815528+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:27.815928+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c0027a80>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと麩分けられ日の光がどっときて猫ちゃんに見つけた, segments=(
+    "<SFTranscriptionSegment: 0x1c009c2f0>, substringRange={0, 82}, timestamp=0, duration=52.85, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U9ea9\U5206\U3051\U3089\U308c\U65e5\U306e\U5149\U304c\U3069\U3063\U3068\U304d\U3066\U732b\U3061\U3083\U3093\U306b\U898b\U3064\U3051\U305f, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:27.816150+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:31.767354+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] RecognitionTask State [+55.0]:1
+2018-07-10 20:38:31.817472+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:31.817659+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:31.818048+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1cc027860>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと麩分けられ日の光がどっときて猫ちゃんに見つけたと, segments=(
+    "<SFTranscriptionSegment: 0x1cc09c7a0>, substringRange={0, 83}, timestamp=0, duration=56.83, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U9ea9\U5206\U3051\U3089\U308c\U65e5\U306e\U5149\U304c\U3069\U3063\U3068\U304d\U3066\U732b\U3061\U3083\U3093\U306b\U898b\U3064\U3051\U305f\U3068, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:31.818269+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:32.071689+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:32.071890+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:32.072318+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c0027720>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと麩分けられ日の光がどっときて猫ちゃんに見つけたと大声, segments=(
+    "<SFTranscriptionSegment: 0x1c009c2f0>, substringRange={0, 85}, timestamp=0, duration=57.15, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U9ea9\U5206\U3051\U3089\U308c\U65e5\U306e\U5149\U304c\U3069\U3063\U3068\U304d\U3066\U732b\U3061\U3083\U3093\U306b\U898b\U3064\U3051\U305f\U3068\U5927\U58f0, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:32.072602+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:32.186150+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:32.186353+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:32.186833+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c4029560>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと麩分けられ日の光がどっときて猫ちゃんに見つけたと大声で, segments=(
+    "<SFTranscriptionSegment: 0x1c409c070>, substringRange={0, 86}, timestamp=0, duration=57.35, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U9ea9\U5206\U3051\U3089\U308c\U65e5\U306e\U5149\U304c\U3069\U3063\U3068\U304d\U3066\U732b\U3061\U3083\U3093\U306b\U898b\U3064\U3051\U305f\U3068\U5927\U58f0\U3067, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:32.187100+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:33.435549+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:33.435779+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:33.436182+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c8027fa0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃん人ぐろっと麩分けられ日の光がどっときて猫ちゃんに見つけたと大声で言われて, segments=(
+    "<SFTranscriptionSegment: 0x1c809c480>, substringRange={0, 90}, timestamp=0, duration=58.5, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U4eba\U3050\U308d\U3063\U3068\U9ea9\U5206\U3051\U3089\U308c\U65e5\U306e\U5149\U304c\U3069\U3063\U3068\U304d\U3066\U732b\U3061\U3083\U3093\U306b\U898b\U3064\U3051\U305f\U3068\U5927\U58f0\U3067\U8a00\U308f\U308c\U3066, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:33.436831+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:35.857583+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didHypothesizeTranscript]
+2018-07-10 20:38:35.857794+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 1
+2018-07-10 20:38:35.858402+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFTranscription: 0x1c0027ba0>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃんにガラッと襖を開けられヒノヒカリがどっときて猫ちゃんに見つけたと大声で言われて, segments=(
+    "<SFTranscriptionSegment: 0x1c009be40>, substringRange={0, 93}, timestamp=0, duration=59.96, confidence=0, substring=\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U305a\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U306b\U30ac\U30e9\U30c3\U3068\U8956\U3092\U958b\U3051\U3089\U308c\U30d2\U30ce\U30d2\U30ab\U30ea\U304c\U3069\U3063\U3068\U304d\U3066\U732b\U3061\U3083\U3093\U306b\U898b\U3064\U3051\U305f\U3068\U5927\U58f0\U3067\U8a00\U308f\U308c\U3066, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:35.859025+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didHypothesizeTranscript]
+2018-07-10 20:38:35.891339+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didFinishRecognition]
+2018-07-10 20:38:35.891865+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 4
+2018-07-10 20:38:35.896808+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] <SFSpeechRecognitionResult: 0x1c404b190> final=1, bestTranscription=<SFTranscription: 0x1c402a100>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃんにガラッと襖を開けられヒノヒカリがどっときて猫ちゃんに見つけたと大声で言われて, segments=(
+    "<SFTranscriptionSegment: 0x1c409c070>, substringRange={0, 1}, timestamp=11.11, duration=3.23, confidence=0.943, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bdf0>, substringRange={1, 1}, timestamp=14.34, duration=0.2599999999999998, confidence=0.943, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c110>, substringRange={2, 1}, timestamp=14.6, duration=0.1300000000000008, confidence=0.926, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c1b0>, substringRange={3, 3}, timestamp=14.73, duration=0.4499999999999993, confidence=0.946, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c020>, substringRange={6, 2}, timestamp=15.18, duration=0.25, confidence=0.913, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c160>, substringRange={8, 1}, timestamp=15.43, duration=0.1000000000000014, confidence=0.911, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bf80>, substringRange={9, 3}, timestamp=15.53, duration=0.4599999999999991, confidence=0.953, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bee0>, substringRange={12, 1}, timestamp=15.99, duration=1.660000000000002, confidence=0.822, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409be40>, substringRange={13, 3}, timestamp=17.65, duration=4.409999999999997, confidence=0.924, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c390>, substringRange={16, 5}, timestamp=22.06, duration=0.5600000000000023, confidence=0.923, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c2a0>, substringRange={21, 1}, timestamp=22.62, duration=0.129999999999999, confidence=0.942, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c200>, substringRange={22, 1}, timestamp=22.75, duration=3.379999999999999, confidence=0.942, substring=\U6642, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c3e0>, substringRange={23, 4}, timestamp=26.13, duration=0.490000000000002, confidence=0.926, substring=\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c340>, substringRange={27, 1}, timestamp=26.62, duration=0.129999999999999, confidence=0.95, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c250>, substringRange={28, 4}, timestamp=26.75, duration=0.5600000000000023, confidence=0.695, substring=\U771f\U3063\U9ed2\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c0c0>, substringRange={32, 5}, timestamp=27.31, duration=2.099999999999998, confidence=0.434934, substring=\U4e2d\U306b\U305a\U3063\U3068, alternativeSubstrings=(\n    \"\\U4e2d\\U306b\\U3058\\U3063\\U3068\"\n)",
+    "<SFTranscriptionSegment: 0x1c409bd00>, substringRange={37, 5}, timestamp=29.41, duration=0.6400000000000006, confidence=0.94, substring=\U3057\U3083\U304c\U3093\U3067, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bbc0>, substringRange={42, 3}, timestamp=30.05, duration=0.5599999999999987, confidence=0.941, substring=\U96a0\U308c\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bc60>, substringRange={45, 2}, timestamp=30.61, duration=1.330000000000002, confidence=0.941, substring=\U3044\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bcb0>, substringRange={47, 2}, timestamp=31.94, duration=1.41, confidence=0.944, substring=\U7a81\U7136, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bc10>, substringRange={49, 5}, timestamp=33.35, duration=0.519999999999996, confidence=0.819, substring=\U3067\U3053\U3061\U3083\U3093, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c480>, substringRange={54, 1}, timestamp=33.87, duration=0.1700000000000017, confidence=0.735, substring=\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bb20>, substringRange={55, 4}, timestamp=34.04, duration=0.4400000000000048, confidence=0.437, substring=\U30ac\U30e9\U30c3\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bb70>, substringRange={59, 1}, timestamp=34.48, duration=0.5399999999999991, confidence=0.118, substring=\U8956, alternativeSubstrings=(\n    \"\\U9ea9\"\n)",
+    "<SFTranscriptionSegment: 0x1c409bad0>, substringRange={60, 1}, timestamp=35.02, duration=0.03999999999999915, confidence=0.296, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c660>, substringRange={61, 4}, timestamp=35.06, duration=2.939999999999998, confidence=0.487, substring=\U958b\U3051\U3089\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c430>, substringRange={65, 5}, timestamp=38, duration=0.7899999999999991, confidence=0.534, substring=\U30d2\U30ce\U30d2\U30ab\U30ea, alternativeSubstrings=(\n    \"\\U65e5\\U306e\\U5149\"\n)",
+    "<SFTranscriptionSegment: 0x1c409c570>, substringRange={70, 1}, timestamp=38.79, duration=0.1300000000000026, confidence=0.831, substring=\U304c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c5c0>, substringRange={71, 3}, timestamp=38.92, duration=0.4499999999999957, confidence=0.938, substring=\U3069\U3063\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c610>, substringRange={74, 2}, timestamp=39.37, duration=6.770000000000003, confidence=0.905, substring=\U304d\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c520>, substringRange={76, 1}, timestamp=46.14, duration=0.25, confidence=0.835, substring=\U732b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c4d0>, substringRange={77, 3}, timestamp=46.39, duration=0.3400000000000034, confidence=0.874, substring=\U3061\U3083\U3093, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409ba80>, substringRange={80, 1}, timestamp=46.73, duration=5.339999999999996, confidence=0.944, substring=\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c6b0>, substringRange={81, 4}, timestamp=52.07, duration=4.189999999999998, confidence=0.8, substring=\U898b\U3064\U3051\U305f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c700>, substringRange={85, 1}, timestamp=56.26, duration=0.220000000000006, confidence=0.94, substring=\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c750>, substringRange={86, 2}, timestamp=56.48, duration=0.4599999999999937, confidence=0.941, substring=\U5927\U58f0, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c7a0>, substringRange={88, 1}, timestamp=56.94, duration=0.740000000000002, confidence=0.942, substring=\U3067, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c7f0>, substringRange={89, 4}, timestamp=57.68, duration=2.280000000000001, confidence=0.901, substring=\U8a00\U308f\U308c\U3066, alternativeSubstrings=(\n)"
+)
+2018-07-10 20:38:35.913710+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] [<SFTranscription: 0x1c402a100>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃんにガラッと襖を開けられヒノヒカリがどっときて猫ちゃんに見つけたと大声で言われて, segments=(
+    "<SFTranscriptionSegment: 0x1c409c070>, substringRange={0, 1}, timestamp=11.11, duration=3.23, confidence=0.943, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bdf0>, substringRange={1, 1}, timestamp=14.34, duration=0.2599999999999998, confidence=0.943, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c110>, substringRange={2, 1}, timestamp=14.6, duration=0.1300000000000008, confidence=0.926, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c1b0>, substringRange={3, 3}, timestamp=14.73, duration=0.4499999999999993, confidence=0.946, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c020>, substringRange={6, 2}, timestamp=15.18, duration=0.25, confidence=0.913, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c160>, substringRange={8, 1}, timestamp=15.43, duration=0.1000000000000014, confidence=0.911, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bf80>, substringRange={9, 3}, timestamp=15.53, duration=0.4599999999999991, confidence=0.953, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bee0>, substringRange={12, 1}, timestamp=15.99, duration=1.660000000000002, confidence=0.822, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409be40>, substringRange={13, 3}, timestamp=17.65, duration=4.409999999999997, confidence=0.924, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c390>, substringRange={16, 5}, timestamp=22.06, duration=0.5600000000000023, confidence=0.923, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c2a0>, substringRange={21, 1}, timestamp=22.62, duration=0.129999999999999, confidence=0.942, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c200>, substringRange={22, 1}, timestamp=22.75, duration=3.379999999999999, confidence=0.942, substring=\U6642, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c3e0>, substringRange={23, 4}, timestamp=26.13, duration=0.490000000000002, confidence=0.926, substring=\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c340>, substringRange={27, 1}, timestamp=26.62, duration=0.129999999999999, confidence=0.95, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c250>, substringRange={28, 4}, timestamp=26.75, duration=0.5600000000000023, confidence=0.695, substring=\U771f\U3063\U9ed2\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c0c0>, substringRange={32, 5}, timestamp=27.31, duration=2.099999999999998, confidence=0.434934, substring=\U4e2d\U306b\U305a\U3063\U3068, alternativeSubstrings=(\n    \"\\U4e2d\\U306b\\U3058\\U3063\\U3068\"\n)",
+    "<SFTranscriptionSegment: 0x1c409bd00>, substringRange={37, 5}, timestamp=29.41, duration=0.6400000000000006, confidence=0.94, substring=\U3057\U3083\U304c\U3093\U3067, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bbc0>, substringRange={42, 3}, timestamp=30.05, duration=0.5599999999999987, confidence=0.941, substring=\U96a0\U308c\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bc60>, substringRange={45, 2}, timestamp=30.61, duration=1.330000000000002, confidence=0.941, substring=\U3044\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bcb0>, substringRange={47, 2}, timestamp=31.94, duration=1.41, confidence=0.944, substring=\U7a81\U7136, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bc10>, substringRange={49, 5}, timestamp=33.35, duration=0.519999999999996, confidence=0.819, substring=\U3067\U3053\U3061\U3083\U3093, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c480>, substringRange={54, 1}, timestamp=33.87, duration=0.1700000000000017, confidence=0.735, substring=\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bb20>, substringRange={55, 4}, timestamp=34.04, duration=0.4400000000000048, confidence=0.437, substring=\U30ac\U30e9\U30c3\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bb70>, substringRange={59, 1}, timestamp=34.48, duration=0.5399999999999991, confidence=0.118, substring=\U8956, alternativeSubstrings=(\n    \"\\U9ea9\"\n)",
+    "<SFTranscriptionSegment: 0x1c409bad0>, substringRange={60, 1}, timestamp=35.02, duration=0.03999999999999915, confidence=0.296, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c660>, substringRange={61, 4}, timestamp=35.06, duration=2.939999999999998, confidence=0.487, substring=\U958b\U3051\U3089\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c430>, substringRange={65, 5}, timestamp=38, duration=0.7899999999999991, confidence=0.534, substring=\U30d2\U30ce\U30d2\U30ab\U30ea, alternativeSubstrings=(\n    \"\\U65e5\\U306e\\U5149\"\n)",
+    "<SFTranscriptionSegment: 0x1c409c570>, substringRange={70, 1}, timestamp=38.79, duration=0.1300000000000026, confidence=0.831, substring=\U304c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c5c0>, substringRange={71, 3}, timestamp=38.92, duration=0.4499999999999957, confidence=0.938, substring=\U3069\U3063\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c610>, substringRange={74, 2}, timestamp=39.37, duration=6.770000000000003, confidence=0.905, substring=\U304d\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c520>, substringRange={76, 1}, timestamp=46.14, duration=0.25, confidence=0.835, substring=\U732b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c4d0>, substringRange={77, 3}, timestamp=46.39, duration=0.3400000000000034, confidence=0.874, substring=\U3061\U3083\U3093, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409ba80>, substringRange={80, 1}, timestamp=46.73, duration=5.339999999999996, confidence=0.944, substring=\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c6b0>, substringRange={81, 4}, timestamp=52.07, duration=4.189999999999998, confidence=0.8, substring=\U898b\U3064\U3051\U305f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c700>, substringRange={85, 1}, timestamp=56.26, duration=0.220000000000006, confidence=0.94, substring=\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c750>, substringRange={86, 2}, timestamp=56.48, duration=0.4599999999999937, confidence=0.941, substring=\U5927\U58f0, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c7a0>, substringRange={88, 1}, timestamp=56.94, duration=0.740000000000002, confidence=0.942, substring=\U3067, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c7f0>, substringRange={89, 4}, timestamp=57.68, duration=2.280000000000001, confidence=0.901, substring=\U8a00\U308f\U308c\U3066, alternativeSubstrings=(\n)"
+), <SFTranscription: 0x1cc028100>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にじっとしゃがんで隠れていて突然でこちゃんにガラッと襖を開けられヒノヒカリがどっときて猫ちゃんに見つけたと大声で言われて, segments=(
+    "<SFTranscriptionSegment: 0x1c409c070>, substringRange={0, 1}, timestamp=11.11, duration=3.23, confidence=0.943, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bdf0>, substringRange={1, 1}, timestamp=14.34, duration=0.2599999999999998, confidence=0.943, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c110>, substringRange={2, 1}, timestamp=14.6, duration=0.1300000000000008, confidence=0.926, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c1b0>, substringRange={3, 3}, timestamp=14.73, duration=0.4499999999999993, confidence=0.946, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c020>, substringRange={6, 2}, timestamp=15.18, duration=0.25, confidence=0.913, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c160>, substringRange={8, 1}, timestamp=15.43, duration=0.1000000000000014, confidence=0.911, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bf80>, substringRange={9, 3}, timestamp=15.53, duration=0.4599999999999991, confidence=0.953, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bee0>, substringRange={12, 1}, timestamp=15.99, duration=1.660000000000002, confidence=0.822, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409be40>, substringRange={13, 3}, timestamp=17.65, duration=4.409999999999997, confidence=0.924, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c390>, substringRange={16, 5}, timestamp=22.06, duration=0.5600000000000023, confidence=0.923, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c2a0>, substringRange={21, 1}, timestamp=22.62, duration=0.129999999999999, confidence=0.942, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c200>, substringRange={22, 1}, timestamp=22.75, duration=3.379999999999999, confidence=0.942, substring=\U6642, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c3e0>, substringRange={23, 4}, timestamp=26.13, duration=0.490000000000002, confidence=0.926, substring=\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c340>, substringRange={27, 1}, timestamp=26.62, duration=0.129999999999999, confidence=0.95, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c250>, substringRange={28, 4}, timestamp=26.75, duration=0.5600000000000023, confidence=0.695, substring=\U771f\U3063\U9ed2\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c980>, substringRange={32, 5}, timestamp=27.31, duration=2.099999999999998, confidence=0.008606, substring=\U4e2d\U306b\U3058\U3063\U3068, alternativeSubstrings=(\n    \"\\U4e2d\\U306b\\U305a\\U3063\\U3068\"\n)",
+    "<SFTranscriptionSegment: 0x1cc09c7a0>, substringRange={37, 5}, timestamp=29.41, duration=0.6400000000000006, confidence=0.94, substring=\U3057\U3083\U304c\U3093\U3067, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c5c0>, substringRange={42, 3}, timestamp=30.05, duration=0.5599999999999987, confidence=0.941, substring=\U96a0\U308c\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c930>, substringRange={45, 2}, timestamp=30.61, duration=1.330000000000002, confidence=0.941, substring=\U3044\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c020>, substringRange={47, 2}, timestamp=31.94, duration=1.41, confidence=0.944, substring=\U7a81\U7136, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c8e0>, substringRange={49, 5}, timestamp=33.35, duration=0.519999999999996, confidence=0.819, substring=\U3067\U3053\U3061\U3083\U3093, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c660>, substringRange={54, 1}, timestamp=33.87, duration=0.1700000000000017, confidence=0.735, substring=\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c570>, substringRange={55, 4}, timestamp=34.04, duration=0.4400000000000048, confidence=0.437, substring=\U30ac\U30e9\U30c3\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09bd00>, substringRange={59, 1}, timestamp=34.48, duration=0.5399999999999991, confidence=0.118, substring=\U8956, alternativeSubstrings=(\n    \"\\U9ea9\"\n)",
+    "<SFTranscriptionSegment: 0x1cc09c9d0>, substringRange={60, 1}, timestamp=35.02, duration=0.03999999999999915, confidence=0.296, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09bf80>, substringRange={61, 4}, timestamp=35.06, duration=2.939999999999998, confidence=0.487, substring=\U958b\U3051\U3089\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c200>, substringRange={65, 5}, timestamp=38, duration=0.7899999999999991, confidence=0.534, substring=\U30d2\U30ce\U30d2\U30ab\U30ea, alternativeSubstrings=(\n    \"\\U65e5\\U306e\\U5149\"\n)",
+    "<SFTranscriptionSegment: 0x1cc09bfd0>, substringRange={70, 1}, timestamp=38.79, duration=0.1300000000000026, confidence=0.831, substring=\U304c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09bdf0>, substringRange={71, 3}, timestamp=38.92, duration=0.4499999999999957, confidence=0.938, substring=\U3069\U3063\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09bee0>, substringRange={74, 2}, timestamp=39.37, duration=6.770000000000003, confidence=0.905, substring=\U304d\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c110>, substringRange={76, 1}, timestamp=46.14, duration=0.25, confidence=0.835, substring=\U732b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c4d0>, substringRange={77, 3}, timestamp=46.39, duration=0.3400000000000034, confidence=0.874, substring=\U3061\U3083\U3093, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c2a0>, substringRange={80, 1}, timestamp=46.73, duration=5.339999999999996, confidence=0.944, substring=\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c250>, substringRange={81, 4}, timestamp=52.07, duration=4.189999999999998, confidence=0.8, substring=\U898b\U3064\U3051\U305f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c2f0>, substringRange={85, 1}, timestamp=56.26, duration=0.220000000000006, confidence=0.94, substring=\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c6b0>, substringRange={86, 2}, timestamp=56.48, duration=0.4599999999999937, confidence=0.941, substring=\U5927\U58f0, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c520>, substringRange={88, 1}, timestamp=56.94, duration=0.740000000000002, confidence=0.942, substring=\U3067, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09bb20>, substringRange={89, 4}, timestamp=57.68, duration=2.280000000000001, confidence=0.901, substring=\U8a00\U308f\U308c\U3066, alternativeSubstrings=(\n)"
+), <SFTranscription: 0x1cc028360>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃんにガラッと麩を開けられヒノヒカリがどっときて猫ちゃんに見つけたと大声で言われて, segments=(
+    "<SFTranscriptionSegment: 0x1c409c070>, substringRange={0, 1}, timestamp=11.11, duration=3.23, confidence=0.943, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bdf0>, substringRange={1, 1}, timestamp=14.34, duration=0.2599999999999998, confidence=0.943, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c110>, substringRange={2, 1}, timestamp=14.6, duration=0.1300000000000008, confidence=0.926, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c1b0>, substringRange={3, 3}, timestamp=14.73, duration=0.4499999999999993, confidence=0.946, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c020>, substringRange={6, 2}, timestamp=15.18, duration=0.25, confidence=0.913, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c160>, substringRange={8, 1}, timestamp=15.43, duration=0.1000000000000014, confidence=0.911, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bf80>, substringRange={9, 3}, timestamp=15.53, duration=0.4599999999999991, confidence=0.953, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bee0>, substringRange={12, 1}, timestamp=15.99, duration=1.660000000000002, confidence=0.822, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409be40>, substringRange={13, 3}, timestamp=17.65, duration=4.409999999999997, confidence=0.924, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c390>, substringRange={16, 5}, timestamp=22.06, duration=0.5600000000000023, confidence=0.923, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c2a0>, substringRange={21, 1}, timestamp=22.62, duration=0.129999999999999, confidence=0.942, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c200>, substringRange={22, 1}, timestamp=22.75, duration=3.379999999999999, confidence=0.942, substring=\U6642, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c3e0>, substringRange={23, 4}, timestamp=26.13, duration=0.490000000000002, confidence=0.926, substring=\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c340>, substringRange={27, 1}, timestamp=26.62, duration=0.129999999999999, confidence=0.95, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c250>, substringRange={28, 4}, timestamp=26.75, duration=0.5600000000000023, confidence=0.695, substring=\U771f\U3063\U9ed2\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c0c0>, substringRange={32, 5}, timestamp=27.31, duration=2.099999999999998, confidence=0.434934, substring=\U4e2d\U306b\U305a\U3063\U3068, alternativeSubstrings=(\n    \"\\U4e2d\\U306b\\U3058\\U3063\\U3068\"\n)",
+    "<SFTranscriptionSegment: 0x1c409bd00>, substringRange={37, 5}, timestamp=29.41, duration=0.6400000000000006, confidence=0.94, substring=\U3057\U3083\U304c\U3093\U3067, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bbc0>, substringRange={42, 3}, timestamp=30.05, duration=0.5599999999999987, confidence=0.941, substring=\U96a0\U308c\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bc60>, substringRange={45, 2}, timestamp=30.61, duration=1.330000000000002, confidence=0.941, substring=\U3044\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bcb0>, substringRange={47, 2}, timestamp=31.94, duration=1.41, confidence=0.944, substring=\U7a81\U7136, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bc10>, substringRange={49, 5}, timestamp=33.35, duration=0.519999999999996, confidence=0.819, substring=\U3067\U3053\U3061\U3083\U3093, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c480>, substringRange={54, 1}, timestamp=33.87, duration=0.1700000000000017, confidence=0.735, substring=\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bb20>, substringRange={55, 4}, timestamp=34.04, duration=0.4400000000000048, confidence=0.437, substring=\U30ac\U30e9\U30c3\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c610>, substringRange={59, 1}, timestamp=34.48, duration=0.5399999999999991, confidence=0.017, substring=\U9ea9, alternativeSubstrings=(\n    \"\\U8956\"\n)",
+    "<SFTranscriptionSegment: 0x1cc09c7f0>, substringRange={60, 1}, timestamp=35.02, duration=0.03999999999999915, confidence=0.296, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c750>, substringRange={61, 4}, timestamp=35.06, duration=2.939999999999998, confidence=0.487, substring=\U958b\U3051\U3089\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c0c0>, substringRange={65, 5}, timestamp=38, duration=0.7899999999999991, confidence=0.534, substring=\U30d2\U30ce\U30d2\U30ab\U30ea, alternativeSubstrings=(\n    \"\\U65e5\\U306e\\U5149\"\n)",
+    "<SFTranscriptionSegment: 0x1cc09c840>, substringRange={70, 1}, timestamp=38.79, duration=0.1300000000000026, confidence=0.831, substring=\U304c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c160>, substringRange={71, 3}, timestamp=38.92, duration=0.4499999999999957, confidence=0.938, substring=\U3069\U3063\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c1b0>, substringRange={74, 2}, timestamp=39.37, duration=6.770000000000003, confidence=0.905, substring=\U304d\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c070>, substringRange={76, 1}, timestamp=46.14, duration=0.25, confidence=0.835, substring=\U732b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c480>, substringRange={77, 3}, timestamp=46.39, duration=0.3400000000000034, confidence=0.874, substring=\U3061\U3083\U3093, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09c890>, substringRange={80, 1}, timestamp=46.73, duration=5.339999999999996, confidence=0.944, substring=\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09d420>, substringRange={81, 4}, timestamp=52.07, duration=4.189999999999998, confidence=0.8, substring=\U898b\U3064\U3051\U305f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09d3d0>, substringRange={85, 1}, timestamp=56.26, duration=0.220000000000006, confidence=0.94, substring=\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09d380>, substringRange={86, 2}, timestamp=56.48, duration=0.4599999999999937, confidence=0.941, substring=\U5927\U58f0, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09d330>, substringRange={88, 1}, timestamp=56.94, duration=0.740000000000002, confidence=0.942, substring=\U3067, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09d2e0>, substringRange={89, 4}, timestamp=57.68, duration=2.280000000000001, confidence=0.901, substring=\U8a00\U308f\U308c\U3066, alternativeSubstrings=(\n)"
+), <SFTranscription: 0x1cc028040>, formattedString=朝目を覚ますときの気持ちは面白いかくれんぼの時押し入れの真っ黒い中にずっとしゃがんで隠れていて突然でこちゃんにガラッと襖を開けられ日の光がどっときて猫ちゃんに見つけたと大声で言われて, segments=(
+    "<SFTranscriptionSegment: 0x1c409c070>, substringRange={0, 1}, timestamp=11.11, duration=3.23, confidence=0.943, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bdf0>, substringRange={1, 1}, timestamp=14.34, duration=0.2599999999999998, confidence=0.943, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c110>, substringRange={2, 1}, timestamp=14.6, duration=0.1300000000000008, confidence=0.926, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c1b0>, substringRange={3, 3}, timestamp=14.73, duration=0.4499999999999993, confidence=0.946, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c020>, substringRange={6, 2}, timestamp=15.18, duration=0.25, confidence=0.913, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c160>, substringRange={8, 1}, timestamp=15.43, duration=0.1000000000000014, confidence=0.911, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bf80>, substringRange={9, 3}, timestamp=15.53, duration=0.4599999999999991, confidence=0.953, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bee0>, substringRange={12, 1}, timestamp=15.99, duration=1.660000000000002, confidence=0.822, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409be40>, substringRange={13, 3}, timestamp=17.65, duration=4.409999999999997, confidence=0.924, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c390>, substringRange={16, 5}, timestamp=22.06, duration=0.5600000000000023, confidence=0.923, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c2a0>, substringRange={21, 1}, timestamp=22.62, duration=0.129999999999999, confidence=0.942, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c200>, substringRange={22, 1}, timestamp=22.75, duration=3.379999999999999, confidence=0.942, substring=\U6642, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c3e0>, substringRange={23, 4}, timestamp=26.13, duration=0.490000000000002, confidence=0.926, substring=\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c340>, substringRange={27, 1}, timestamp=26.62, duration=0.129999999999999, confidence=0.95, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c250>, substringRange={28, 4}, timestamp=26.75, duration=0.5600000000000023, confidence=0.695, substring=\U771f\U3063\U9ed2\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c0c0>, substringRange={32, 5}, timestamp=27.31, duration=2.099999999999998, confidence=0.434934, substring=\U4e2d\U306b\U305a\U3063\U3068, alternativeSubstrings=(\n    \"\\U4e2d\\U306b\\U3058\\U3063\\U3068\"\n)",
+    "<SFTranscriptionSegment: 0x1c409bd00>, substringRange={37, 5}, timestamp=29.41, duration=0.6400000000000006, confidence=0.94, substring=\U3057\U3083\U304c\U3093\U3067, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bbc0>, substringRange={42, 3}, timestamp=30.05, duration=0.5599999999999987, confidence=0.941, substring=\U96a0\U308c\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bc60>, substringRange={45, 2}, timestamp=30.61, duration=1.330000000000002, confidence=0.941, substring=\U3044\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bcb0>, substringRange={47, 2}, timestamp=31.94, duration=1.41, confidence=0.944, substring=\U7a81\U7136, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bc10>, substringRange={49, 5}, timestamp=33.35, duration=0.519999999999996, confidence=0.819, substring=\U3067\U3053\U3061\U3083\U3093, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c480>, substringRange={54, 1}, timestamp=33.87, duration=0.1700000000000017, confidence=0.735, substring=\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bb20>, substringRange={55, 4}, timestamp=34.04, duration=0.4400000000000048, confidence=0.437, substring=\U30ac\U30e9\U30c3\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409bb70>, substringRange={59, 1}, timestamp=34.48, duration=0.5399999999999991, confidence=0.118, substring=\U8956, alternativeSubstrings=(\n    \"\\U9ea9\"\n)",
+    "<SFTranscriptionSegment: 0x1c409bad0>, substringRange={60, 1}, timestamp=35.02, duration=0.03999999999999915, confidence=0.296, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c409c660>, substringRange={61, 4}, timestamp=35.06, duration=2.939999999999998, confidence=0.487, substring=\U958b\U3051\U3089\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09d290>, substringRange={65, 3}, timestamp=38, duration=0.7899999999999991, confidence=2.64e-07, substring=\U65e5\U306e\U5149, alternativeSubstrings=(\n    \"\\U30d2\\U30ce\\U30d2\\U30ab\\U30ea\"\n)",
+    "<SFTranscriptionSegment: 0x1cc09d240>, substringRange={68, 1}, timestamp=38.79, duration=0.1300000000000026, confidence=0.831, substring=\U304c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09d1f0>, substringRange={69, 3}, timestamp=38.92, duration=0.4499999999999957, confidence=0.938, substring=\U3069\U3063\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09d1a0>, substringRange={72, 2}, timestamp=39.37, duration=6.770000000000003, confidence=0.905, substring=\U304d\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09d150>, substringRange={74, 1}, timestamp=46.14, duration=0.25, confidence=0.835, substring=\U732b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09d100>, substringRange={75, 3}, timestamp=46.39, duration=0.3400000000000034, confidence=0.874, substring=\U3061\U3083\U3093, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09d0b0>, substringRange={78, 1}, timestamp=46.73, duration=5.339999999999996, confidence=0.944, substring=\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09d060>, substringRange={79, 4}, timestamp=52.07, duration=4.189999999999998, confidence=0.8, substring=\U898b\U3064\U3051\U305f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09d010>, substringRange={83, 1}, timestamp=56.26, duration=0.220000000000006, confidence=0.94, substring=\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09cfc0>, substringRange={84, 2}, timestamp=56.48, duration=0.4599999999999937, confidence=0.941, substring=\U5927\U58f0, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09cf70>, substringRange={86, 1}, timestamp=56.94, duration=0.740000000000002, confidence=0.942, substring=\U3067, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc09cf20>, substringRange={87, 4}, timestamp=57.68, duration=2.280000000000001, confidence=0.901, substring=\U8a00\U308f\U308c\U3066, alternativeSubstrings=(\n)"
+)]
+2018-07-10 20:38:35.916468+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didFinishRecognition]
+2018-07-10 20:38:35.917679+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [START didFinishSuccessfully]
+2018-07-10 20:38:35.917789+0900 RecognitionTaskWithDelegate[21089:5954657] [info] successfully == true
+2018-07-10 20:38:35.917926+0900 RecognitionTaskWithDelegate[21089:5954657] [debug] task.state 4
+2018-07-10 20:38:35.918009+0900 RecognitionTaskWithDelegate[21089:5954657] [info] # [END didFinishSuccessfully]
+2018-07-10 20:38:37.808426+0900 RecognitionTaskWithDelegate[21089:5954657] [info] stopListening
+2018-07-10 20:38:37.816862+0900 RecognitionTaskWithDelegate[21089:5954657] [info] deactivating audio

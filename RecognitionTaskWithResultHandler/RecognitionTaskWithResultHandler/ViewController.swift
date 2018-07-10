@@ -15,7 +15,7 @@ class ViewController: UIViewController {
   var engine = AVAudioEngine()
   var recognizer = SFSpeechRecognizer(locale: Locale(identifier: "ja-JP"))
   var recognizerRequest: SFSpeechAudioBufferRecognitionRequest!
-  var task: SFSpeechRecognitionTask?
+  var recognitionTask: SFSpeechRecognitionTask?
   let inputNodeBus: AVAudioNodeBus = 0
   let bufferSize: AVAudioFrameCount = 1024
   var isListening = false {
@@ -113,15 +113,16 @@ class ViewController: UIViewController {
     
     do {
       try engine.start()
-      
-      isListening = true
-      stopButton.isEnabled = true
     }
     catch let error {
       logger.error(error: error)
     }
     
-    task = recognizer?.recognitionTask(with: recognizerRequest) { [unowned self] (result, error) in
+    isListening = true
+    startButton.isEnabled = false
+    stopButton.isEnabled = true
+    
+    recognitionTask = recognizer?.recognitionTask(with: recognizerRequest) { [unowned self] (result, error) in
       if let error = error {
         logger.error(error: error)
       }
@@ -138,7 +139,7 @@ class ViewController: UIViewController {
         logger.debug(message: "result.isFinal")
       }
 
-      if let task = self.task {
+      if let task = self.recognitionTask {
         logger.debug(message: "RecognitionTask State \(task.state.rawValue)")
         
         if task.isFinishing {
@@ -149,30 +150,21 @@ class ViewController: UIViewController {
         }
       }
     }
-    
-    logger.debug(message: "RecognitionTask State [initial]:\(task!.state.rawValue)")
-    
-    DispatchQueue.main.asyncAfter(deadline: .now() + 15.0) {
-      logger.debug(message: "RecognitionTask State [+15.0]:\(self.task!.state.rawValue)")
-    }
-    DispatchQueue.main.asyncAfter(deadline: .now() + 55.0) {
-      logger.debug(message: "RecognitionTask State [+55.0]:\(self.task!.state.rawValue)")
-    }
-    DispatchQueue.main.asyncAfter(deadline: .now() + 65.0) {
-      logger.debug(message: "RecognitionTask State [+65.0]:\(self.task!.state.rawValue)")
-    }
+    writeLogForMinute()
   }
   
   func stopListening() {
-    // request = nil
-    // task = nil
-    isListening = false
     logger.info(message: "stopListening")
-    engine.stop()
     recognizerRequest.endAudio()
+    recognitionTask?.finish()
+    
+    engine.stop()
     engine.inputNode.removeTap(onBus: inputNodeBus)
-    task?.cancel()
     deactivateAudio()
+    
+    isListening = false
+    startButton.isEnabled = true
+    stopButton.isEnabled = false
   }
   
   func activateAudio() {
@@ -218,6 +210,20 @@ class ViewController: UIViewController {
       DispatchQueue.main.async {
         self.startButton.isEnabled = isAuthorized
       }
+    }
+  }
+  
+  func writeLogForMinute() {
+    logger.debug(message: "RecognitionTask State [initial]:\(recognitionTask!.state.rawValue)")
+    
+    DispatchQueue.main.asyncAfter(deadline: .now() + 15.0) {
+      logger.debug(message: "RecognitionTask State [+15.0]:\(self.recognitionTask!.state.rawValue)")
+    }
+    DispatchQueue.main.asyncAfter(deadline: .now() + 55.0) {
+      logger.debug(message: "RecognitionTask State [+55.0]:\(self.recognitionTask!.state.rawValue)")
+    }
+    DispatchQueue.main.asyncAfter(deadline: .now() + 65.0) {
+      logger.debug(message: "RecognitionTask State [+65.0]:\(self.recognitionTask!.state.rawValue)")
     }
   }
 }

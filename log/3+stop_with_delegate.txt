@@ -1,0 +1,27 @@
+2018-07-10 19:47:37.638294+0900 RecognitionTaskWithDelegate[20972:5926276] [info] activating audio
+2018-07-10 19:47:37.881477+0900 RecognitionTaskWithDelegate[20972:5926276] [debug] RecognitionTask State [initial]:0
+2018-07-10 19:47:39.990076+0900 RecognitionTaskWithDelegate[20972:5926276] [info] stopListening
+2018-07-10 19:47:39.990243+0900 RecognitionTaskWithDelegate[20972:5926276] [debug] recognizerRequest.endAudio
+2018-07-10 19:47:39.996647+0900 RecognitionTaskWithDelegate[20972:5926276] [info] deactivating audio
+2018-07-10 19:47:40.137012+0900 RecognitionTaskWithDelegate[20972:5926276] [info] ###### this one is important for me ######
+2018-07-10 19:47:40.137064+0900 RecognitionTaskWithDelegate[20972:5926276] [info] # [START speechRecognitionTaskFinishedReadingAudio]
+2018-07-10 19:47:40.137103+0900 RecognitionTaskWithDelegate[20972:5926276] [debug] task.state 4
+2018-07-10 19:47:40.137130+0900 RecognitionTaskWithDelegate[20972:5926276] [debug] task isFinishing
+2018-07-10 19:47:40.137159+0900 RecognitionTaskWithDelegate[20972:5926276] [info] # [FINISH speechRecognitionTaskFinishedReadingAudio]
+2018-07-10 19:47:40.137241+0900 RecognitionTaskWithDelegate[20972:5926276] [info] # [START didHypothesizeTranscript]
+2018-07-10 19:47:40.137273+0900 RecognitionTaskWithDelegate[20972:5926276] [debug] task.state 4
+2018-07-10 19:47:40.137370+0900 RecognitionTaskWithDelegate[20972:5926276] [debug] <SFTranscription: 0x1d40386a0>, formattedString=こんにちは, segments=(
+    "<SFTranscriptionSegment: 0x1d408ff00>, substringRange={0, 5}, timestamp=0, duration=1.61, confidence=0, substring=\U3053\U3093\U306b\U3061\U306f, alternativeSubstrings=(\n)"
+)
+2018-07-10 19:47:40.137401+0900 RecognitionTaskWithDelegate[20972:5926276] [debug] task isFinishing
+2018-07-10 19:47:40.137429+0900 RecognitionTaskWithDelegate[20972:5926276] [info] # [END didHypothesizeTranscript]
+2018-07-10 19:47:40.137528+0900 RecognitionTaskWithDelegate[20972:5926276] [info] # [START didFinishRecognition]
+2018-07-10 19:47:40.137568+0900 RecognitionTaskWithDelegate[20972:5926276] [debug] task.state 4
+2018-07-10 19:47:40.137676+0900 RecognitionTaskWithDelegate[20972:5926276] [debug] <SFSpeechRecognitionResult: 0x1c004c6c0> final=1, bestTranscription=<SFTranscription: 0x1c002ce80>, formattedString=こんにちは, segments=(
+    "<SFTranscriptionSegment: 0x1c008a230>, substringRange={0, 5}, timestamp=0.67, duration=1.31, confidence=0.926, substring=\U3053\U3093\U306b\U3061\U306f, alternativeSubstrings=(\n)"
+)
+2018-07-10 19:47:40.137715+0900 RecognitionTaskWithDelegate[20972:5926276] [info] # [END didFinishRecognition]
+2018-07-10 19:47:40.137804+0900 RecognitionTaskWithDelegate[20972:5926276] [info] # [START didFinishSuccessfully]
+2018-07-10 19:47:40.138275+0900 RecognitionTaskWithDelegate[20972:5926276] [info] successfully == true
+2018-07-10 19:47:40.138310+0900 RecognitionTaskWithDelegate[20972:5926276] [debug] task.state 4
+2018-07-10 19:47:40.138338+0900 RecognitionTaskWithDelegate[20972:5926276] [info] # [END didFinishSuccessfully]
