@@ -1,0 +1,382 @@
+2018-07-10 17:10:23.625888+0900 SFQuota[20589:5835519] +[CATransaction synchronize] called within transaction
+2018-07-10 17:10:23.702442+0900 SFQuota[20589:5835519] [info] viewDidLoad
+2018-07-10 17:10:23.704805+0900 SFQuota[20589:5835519] [info] setupSpeech
+2018-07-10 17:10:23.707623+0900 SFQuota[20589:5835592] [info] Speech Authorized
+2018-07-10 17:10:40.406114+0900 SFQuota[20589:5835519] [debug] RecognitionTask State [initial]:0
+2018-07-10 17:10:44.599289+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c0056710> final=0, bestTranscription=<SFTranscription: 0x1c402a9e0>, formattedString=あー, segments=(
+    "<SFTranscriptionSegment: 0x1c4084330>, substringRange={0, 2}, timestamp=0, duration=3.62, confidence=0, substring=\U3042\U30fc, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:10:44.599538+0900 SFQuota[20589:5835519] [debug] あー
+2018-07-10 17:10:44.599716+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:10:44.697527+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c4057700> final=0, bestTranscription=<SFTranscription: 0x1c402b780>, formattedString=あー, segments=(
+    "<SFTranscriptionSegment: 0x1c4084b00>, substringRange={0, 2}, timestamp=0, duration=3.66, confidence=0, substring=\U3042\U30fc, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:10:44.697724+0900 SFQuota[20589:5835519] [debug] あー
+2018-07-10 17:10:44.697877+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:10:47.932409+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1cc055cf0> final=0, bestTranscription=<SFTranscription: 0x1cc028200>, formattedString=あーこんにちは, segments=(
+    "<SFTranscriptionSegment: 0x1cc084470>, substringRange={0, 7}, timestamp=0, duration=7.06, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:10:47.932643+0900 SFQuota[20589:5835519] [debug] あーこんにちは
+2018-07-10 17:10:47.932827+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:10:48.210992+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c40576d0> final=0, bestTranscription=<SFTranscription: 0x1c402bb40>, formattedString=あーこんにちは, segments=(
+    "<SFTranscriptionSegment: 0x1c4084330>, substringRange={0, 7}, timestamp=0, duration=7.27, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:10:48.211195+0900 SFQuota[20589:5835519] [debug] あーこんにちは
+2018-07-10 17:10:48.211360+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:10:48.311547+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1cc055cf0> final=0, bestTranscription=<SFTranscription: 0x1cc028200>, formattedString=あーこんにちは, segments=(
+    "<SFTranscriptionSegment: 0x1cc084380>, substringRange={0, 2}, timestamp=3.05, duration=3.15, confidence=0.508, substring=\U3042\U30fc, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc0843d0>, substringRange={2, 5}, timestamp=6.2, duration=1.07, confidence=0.92, substring=\U3053\U3093\U306b\U3061\U306f, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:10:48.311720+0900 SFQuota[20589:5835519] [debug] あーこんにちは
+2018-07-10 17:10:48.311841+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:10:52.946452+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c0056770> final=0, bestTranscription=<SFTranscription: 0x1c0028f80>, formattedString=あーこんにちは朝, segments=(
+    "<SFTranscriptionSegment: 0x1c0084510>, substringRange={0, 8}, timestamp=0, duration=11.97, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:10:52.946642+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝
+2018-07-10 17:10:52.946871+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:10:53.202517+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c0056740> final=0, bestTranscription=<SFTranscription: 0x1c0028160>, formattedString=あーこんにちは朝, segments=(
+    "<SFTranscriptionSegment: 0x1c0084510>, substringRange={0, 8}, timestamp=0, duration=12.11, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:10:53.202712+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝
+2018-07-10 17:10:53.202876+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:10:53.304703+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c8056170> final=0, bestTranscription=<SFTranscription: 0x1c8027d60>, formattedString=あーこんにちは朝, segments=(
+    "<SFTranscriptionSegment: 0x1c8084290>, substringRange={0, 2}, timestamp=3.05, duration=3.15, confidence=0.464, substring=\U3042\U30fc, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c80844c0>, substringRange={2, 5}, timestamp=6.2, duration=5.19, confidence=0.919, substring=\U3053\U3093\U306b\U3061\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c80845b0>, substringRange={7, 1}, timestamp=11.39, duration=0.7199999999999989, confidence=0.918, substring=\U671d, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:10:53.304904+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝
+2018-07-10 17:10:53.305024+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:10:56.036594+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c8056260> final=0, bestTranscription=<SFTranscription: 0x1c8027fa0>, formattedString=あーこんにちは朝目を, segments=(
+    "<SFTranscriptionSegment: 0x1c8084290>, substringRange={0, 10}, timestamp=0, duration=15.17, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:10:56.036749+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を
+2018-07-10 17:10:56.036866+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:10:56.355727+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c80563e0> final=0, bestTranscription=<SFTranscription: 0x1c8027de0>, formattedString=あーこんにちは朝目を覚ます, segments=(
+    "<SFTranscriptionSegment: 0x1c80845b0>, substringRange={0, 13}, timestamp=0, duration=15.6, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:10:56.355919+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ます
+2018-07-10 17:10:56.356070+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:10:56.744965+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c80562c0> final=0, bestTranscription=<SFTranscription: 0x1c8027fa0>, formattedString=あーこんにちは朝目を覚ますとき, segments=(
+    "<SFTranscriptionSegment: 0x1c8084290>, substringRange={0, 15}, timestamp=0, duration=15.88, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:10:56.745162+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますとき
+2018-07-10 17:10:56.745321+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:10:56.806412+0900 SFQuota[20589:5835519] [debug] RecognitionTask State [+15.0]:1
+2018-07-10 17:10:56.844472+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c0056320> final=0, bestTranscription=<SFTranscription: 0x1c0028f20>, formattedString=あーこんにちは朝目を覚ますときの, segments=(
+    "<SFTranscriptionSegment: 0x1c0084650>, substringRange={0, 16}, timestamp=0, duration=15.94, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:10:56.844635+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの
+2018-07-10 17:10:56.844773+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:10:57.339548+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1cc055ba0> final=0, bestTranscription=<SFTranscription: 0x1cc0283c0>, formattedString=あーこんにちは朝目を覚ますときの気持ち, segments=(
+    "<SFTranscriptionSegment: 0x1cc084470>, substringRange={0, 19}, timestamp=0, duration=16.38, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:10:57.339781+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ち
+2018-07-10 17:10:57.339950+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:10:57.438853+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c0056f50> final=0, bestTranscription=<SFTranscription: 0x1c0028300>, formattedString=あーこんにちは朝目を覚ますときの気持ちは, segments=(
+    "<SFTranscriptionSegment: 0x1c0084240>, substringRange={0, 20}, timestamp=0, duration=16.58, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:10:57.439031+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは
+2018-07-10 17:10:57.439177+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:10:57.696988+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1cc056020> final=0, bestTranscription=<SFTranscription: 0x1cc028420>, formattedString=あーこんにちは朝目を覚ますときの気持ちは, segments=(
+    "<SFTranscriptionSegment: 0x1cc0845b0>, substringRange={0, 20}, timestamp=0, duration=16.74, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:10:57.697184+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは
+2018-07-10 17:10:57.697338+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:10:57.798928+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1cc056020> final=0, bestTranscription=<SFTranscription: 0x1cc0283c0>, formattedString=あーこんにちは朝目を覚ますときの気持ちは, segments=(
+    "<SFTranscriptionSegment: 0x1cc084470>, substringRange={0, 2}, timestamp=3.05, duration=3.15, confidence=0.519, substring=\U3042\U30fc, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc0845b0>, substringRange={2, 5}, timestamp=6.2, duration=5.19, confidence=0.929, substring=\U3053\U3093\U306b\U3061\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084330>, substringRange={7, 1}, timestamp=11.39, duration=3.289999999999999, confidence=0.928, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084510>, substringRange={8, 1}, timestamp=14.68, duration=0.2200000000000006, confidence=0.926, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084560>, substringRange={9, 1}, timestamp=14.9, duration=0.1099999999999994, confidence=0.907, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084600>, substringRange={10, 3}, timestamp=15.01, duration=0.4100000000000001, confidence=0.93, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084650>, substringRange={13, 2}, timestamp=15.42, duration=0.2300000000000004, confidence=0.902, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc0846f0>, substringRange={15, 1}, timestamp=15.65, duration=0.09999999999999964, confidence=0.929, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084740>, substringRange={16, 3}, timestamp=15.75, duration=0.4499999999999993, confidence=0.937, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084790>, substringRange={19, 1}, timestamp=16.2, duration=0.5400000000000027, confidence=0.813, substring=\U306f, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:10:57.800508+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは
+2018-07-10 17:10:57.800679+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:00.204594+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c0056320> final=0, bestTranscription=<SFTranscription: 0x1c0028220>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白い, segments=(
+    "<SFTranscriptionSegment: 0x1c0084240>, substringRange={0, 23}, timestamp=0, duration=19.43, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:00.204798+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白い
+2018-07-10 17:11:00.204958+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:00.555879+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c80562c0> final=0, bestTranscription=<SFTranscription: 0x1c8028020>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白い, segments=(
+    "<SFTranscriptionSegment: 0x1c8084290>, substringRange={0, 23}, timestamp=0, duration=19.56, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:00.556083+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白い
+2018-07-10 17:11:00.556277+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:00.659554+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c8056260> final=0, bestTranscription=<SFTranscription: 0x1c8027e00>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白い, segments=(
+    "<SFTranscriptionSegment: 0x1c8084290>, substringRange={0, 2}, timestamp=3.05, duration=3.15, confidence=0.517, substring=\U3042\U30fc, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084600>, substringRange={2, 5}, timestamp=6.2, duration=5.19, confidence=0.93, substring=\U3053\U3093\U306b\U3061\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c80846a0>, substringRange={7, 1}, timestamp=11.39, duration=3.289999999999999, confidence=0.929, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084650>, substringRange={8, 1}, timestamp=14.68, duration=0.2200000000000006, confidence=0.926, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084510>, substringRange={9, 1}, timestamp=14.9, duration=0.1099999999999994, confidence=0.908, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084560>, substringRange={10, 3}, timestamp=15.01, duration=0.4100000000000001, confidence=0.931, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084830>, substringRange={13, 2}, timestamp=15.42, duration=0.2300000000000004, confidence=0.903, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c80848d0>, substringRange={15, 1}, timestamp=15.65, duration=0.09999999999999964, confidence=0.93, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084920>, substringRange={16, 3}, timestamp=15.75, duration=0.4499999999999993, confidence=0.936, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084970>, substringRange={19, 1}, timestamp=16.2, duration=2.460000000000001, confidence=0.864, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c80849c0>, substringRange={20, 3}, timestamp=18.66, duration=0.8999999999999986, confidence=0.929, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:00.660593+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白い
+2018-07-10 17:11:00.660790+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:06.164991+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1cc055bd0> final=0, bestTranscription=<SFTranscription: 0x1cc0284e0>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼ, segments=(
+    "<SFTranscriptionSegment: 0x1cc0842e0>, substringRange={0, 28}, timestamp=0, duration=25.36, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:06.165227+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼ
+2018-07-10 17:11:06.165390+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:06.358756+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c0056710> final=0, bestTranscription=<SFTranscription: 0x1c0028d60>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの, segments=(
+    "<SFTranscriptionSegment: 0x1c0084240>, substringRange={0, 29}, timestamp=0, duration=25.46, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:06.359055+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの
+2018-07-10 17:11:06.359279+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:06.749487+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1cc055fc0> final=0, bestTranscription=<SFTranscription: 0x1cc0281e0>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時, segments=(
+    "<SFTranscriptionSegment: 0x1cc0842e0>, substringRange={0, 30}, timestamp=0, duration=25.8, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:06.749687+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時
+2018-07-10 17:11:06.749842+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:07.222052+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c40579d0> final=0, bestTranscription=<SFTranscription: 0x1c40298a0>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時, segments=(
+    "<SFTranscriptionSegment: 0x1c4084510>, substringRange={0, 30}, timestamp=0, duration=26.01, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:07.222251+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時
+2018-07-10 17:11:07.222407+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:07.331700+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c0056200> final=0, bestTranscription=<SFTranscription: 0x1c0028fa0>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時, segments=(
+    "<SFTranscriptionSegment: 0x1c0084420>, substringRange={0, 2}, timestamp=3.05, duration=3.15, confidence=0.487, substring=\U3042\U30fc, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c0084240>, substringRange={2, 5}, timestamp=6.2, duration=5.19, confidence=0.931, substring=\U3053\U3093\U306b\U3061\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c0084650>, substringRange={7, 1}, timestamp=11.39, duration=3.289999999999999, confidence=0.93, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c0084330>, substringRange={8, 1}, timestamp=14.68, duration=0.2200000000000006, confidence=0.928, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c0084510>, substringRange={9, 1}, timestamp=14.9, duration=0.1099999999999994, confidence=0.907, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c0084740>, substringRange={10, 3}, timestamp=15.01, duration=0.4100000000000001, confidence=0.932, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c0084790>, substringRange={13, 2}, timestamp=15.42, duration=0.2300000000000004, confidence=0.905, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c0084830>, substringRange={15, 1}, timestamp=15.65, duration=0.09999999999999964, confidence=0.93, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c0084880>, substringRange={16, 3}, timestamp=15.75, duration=0.4499999999999993, confidence=0.937, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c00848d0>, substringRange={19, 1}, timestamp=16.2, duration=2.460000000000001, confidence=0.861, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c0084920>, substringRange={20, 3}, timestamp=18.66, duration=5.900000000000002, confidence=0.91, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c00847e0>, substringRange={23, 5}, timestamp=24.56, duration=0.6099999999999994, confidence=0.91, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c0084970>, substringRange={28, 1}, timestamp=25.17, duration=0.1199999999999974, confidence=0.929, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c00849c0>, substringRange={29, 1}, timestamp=25.29, duration=0.7200000000000024, confidence=0.929, substring=\U6642, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:07.332550+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時
+2018-07-10 17:11:07.332720+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:09.201859+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c80560b0> final=0, bestTranscription=<SFTranscription: 0x1c8028140>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ, segments=(
+    "<SFTranscriptionSegment: 0x1c80849c0>, substringRange={0, 33}, timestamp=0, duration=28.33, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U6559\U3048\U308d, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:09.202093+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ
+2018-07-10 17:11:09.202255+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:09.609143+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c4057820> final=0, bestTranscription=<SFTranscription: 0x1c402c8c0>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ, segments=(
+    "<SFTranscriptionSegment: 0x1c4084bf0>, substringRange={0, 33}, timestamp=0, duration=28.44, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U6559\U3048\U308d, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:09.609339+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ
+2018-07-10 17:11:09.609596+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:09.713571+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c80563b0> final=0, bestTranscription=<SFTranscription: 0x1c8028180>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ, segments=(
+    "<SFTranscriptionSegment: 0x1c80849c0>, substringRange={0, 2}, timestamp=3.05, duration=3.15, confidence=0.481, substring=\U3042\U30fc, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084560>, substringRange={2, 5}, timestamp=6.2, duration=5.19, confidence=0.931, substring=\U3053\U3093\U306b\U3061\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084510>, substringRange={7, 1}, timestamp=11.39, duration=3.289999999999999, confidence=0.93, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084650>, substringRange={8, 1}, timestamp=14.68, duration=0.2200000000000006, confidence=0.929, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c80846a0>, substringRange={9, 1}, timestamp=14.9, duration=0.1099999999999994, confidence=0.907, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084600>, substringRange={10, 3}, timestamp=15.01, duration=0.4100000000000001, confidence=0.932, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084290>, substringRange={13, 2}, timestamp=15.42, duration=0.2300000000000004, confidence=0.906, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084a10>, substringRange={15, 1}, timestamp=15.65, duration=0.09999999999999964, confidence=0.931, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084a60>, substringRange={16, 3}, timestamp=15.75, duration=0.4499999999999993, confidence=0.937, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084ab0>, substringRange={19, 1}, timestamp=16.2, duration=2.460000000000001, confidence=0.864, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084b00>, substringRange={20, 3}, timestamp=18.66, duration=5.900000000000002, confidence=0.91, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c80845b0>, substringRange={23, 5}, timestamp=24.56, duration=0.6099999999999994, confidence=0.911, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084b50>, substringRange={28, 1}, timestamp=25.17, duration=0.1199999999999974, confidence=0.93, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084ba0>, substringRange={29, 1}, timestamp=25.29, duration=2.240000000000002, confidence=0.93, substring=\U6642, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084bf0>, substringRange={30, 3}, timestamp=27.53, duration=0.9100000000000001, confidence=0.763, substring=\U6559\U3048\U308d, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:09.714400+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ
+2018-07-10 17:11:09.714562+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:10.351315+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c4057820> final=0, bestTranscription=<SFTranscription: 0x1c402b500>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れ, segments=(
+    "<SFTranscriptionSegment: 0x1c4084bf0>, substringRange={0, 37}, timestamp=0, duration=29.53, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U6559\U3048\U308d\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:10.351514+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れ
+2018-07-10 17:11:10.351664+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:10.571255+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1cc055c30> final=0, bestTranscription=<SFTranscription: 0x1cc028360>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの, segments=(
+    "<SFTranscriptionSegment: 0x1cc084380>, substringRange={0, 38}, timestamp=0, duration=29.76, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U6559\U3048\U308d\U62bc\U3057\U5165\U308c\U306e, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:10.571452+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの
+2018-07-10 17:11:10.571629+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:11.058813+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1cc055b40> final=0, bestTranscription=<SFTranscription: 0x1cc0281e0>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時お城押し入れの, segments=(
+    "<SFTranscriptionSegment: 0x1cc084380>, substringRange={0, 37}, timestamp=0, duration=29.9, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U304a\U57ce\U62bc\U3057\U5165\U308c\U306e, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:11.059051+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時お城押し入れの
+2018-07-10 17:11:11.059214+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:11.165127+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1cc055b40> final=0, bestTranscription=<SFTranscription: 0x1cc028360>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時お城押し入れの, segments=(
+    "<SFTranscriptionSegment: 0x1cc084380>, substringRange={0, 2}, timestamp=3.05, duration=3.15, confidence=0.484, substring=\U3042\U30fc, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc0842e0>, substringRange={2, 5}, timestamp=6.2, duration=5.19, confidence=0.933, substring=\U3053\U3093\U306b\U3061\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc0843d0>, substringRange={7, 1}, timestamp=11.39, duration=3.289999999999999, confidence=0.932, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084790>, substringRange={8, 1}, timestamp=14.68, duration=0.2200000000000006, confidence=0.928, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084740>, substringRange={9, 1}, timestamp=14.9, duration=0.1099999999999994, confidence=0.908, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc0846f0>, substringRange={10, 3}, timestamp=15.01, duration=0.4100000000000001, confidence=0.934, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084650>, substringRange={13, 2}, timestamp=15.42, duration=0.2300000000000004, confidence=0.909, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084560>, substringRange={15, 1}, timestamp=15.65, duration=0.09999999999999964, confidence=0.933, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084510>, substringRange={16, 3}, timestamp=15.75, duration=0.4499999999999993, confidence=0.938, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084330>, substringRange={19, 1}, timestamp=16.2, duration=2.460000000000001, confidence=0.867, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc0845b0>, substringRange={20, 3}, timestamp=18.66, duration=5.900000000000002, confidence=0.913, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084600>, substringRange={23, 5}, timestamp=24.56, duration=0.6099999999999994, confidence=0.913, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084470>, substringRange={28, 1}, timestamp=25.17, duration=0.1199999999999974, confidence=0.931, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc0847e0>, substringRange={29, 1}, timestamp=25.29, duration=2.240000000000002, confidence=0.932, substring=\U6642, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084830>, substringRange={30, 2}, timestamp=27.53, duration=1.309999999999999, confidence=0.824, substring=\U304a\U57ce, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc084880>, substringRange={32, 4}, timestamp=28.84, duration=0.5100000000000016, confidence=0.908, substring=\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1cc0848d0>, substringRange={36, 1}, timestamp=29.35, duration=0.5500000000000007, confidence=0.929, substring=\U306e, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:11.166139+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時お城押し入れの
+2018-07-10 17:11:11.166311+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:15.210683+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c80562c0> final=0, bestTranscription=<SFTranscription: 0x1c8027e40>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ暗, segments=(
+    "<SFTranscriptionSegment: 0x1c8084830>, substringRange={0, 41}, timestamp=0, duration=34.31, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U6559\U3048\U308d\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U6697, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:15.210882+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ暗
+2018-07-10 17:11:15.211034+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:15.548935+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c4056230> final=0, bestTranscription=<SFTranscription: 0x1c402b060>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い, segments=(
+    "<SFTranscriptionSegment: 0x1c4084c90>, substringRange={0, 42}, timestamp=0, duration=34.55, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U6559\U3048\U308d\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:15.549137+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い
+2018-07-10 17:11:15.549297+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:15.647400+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1cc055c30> final=0, bestTranscription=<SFTranscription: 0x1cc028240>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中に, segments=(
+    "<SFTranscriptionSegment: 0x1cc0848d0>, substringRange={0, 44}, timestamp=0, duration=34.7, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U6559\U3048\U308d\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:15.647587+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中に
+2018-07-10 17:11:15.647767+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:15.972585+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c40578e0> final=0, bestTranscription=<SFTranscription: 0x1c402c7c0>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時お城押し入れの真っ黒い中に, segments=(
+    "<SFTranscriptionSegment: 0x1c4084c90>, substringRange={0, 43}, timestamp=0, duration=34.83, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U304a\U57ce\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:15.972805+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時お城押し入れの真っ黒い中に
+2018-07-10 17:11:15.972962+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:16.078925+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c80562c0> final=0, bestTranscription=<SFTranscription: 0x1c8027de0>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時お城押し入れの真っ黒い中に, segments=(
+    "<SFTranscriptionSegment: 0x1c80848d0>, substringRange={0, 2}, timestamp=3.05, duration=3.15, confidence=0.481, substring=\U3042\U30fc, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084920>, substringRange={2, 5}, timestamp=6.2, duration=5.19, confidence=0.933, substring=\U3053\U3093\U306b\U3061\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084bf0>, substringRange={7, 1}, timestamp=11.39, duration=3.289999999999999, confidence=0.932, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084ba0>, substringRange={8, 1}, timestamp=14.68, duration=0.2200000000000006, confidence=0.929, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084b50>, substringRange={9, 1}, timestamp=14.9, duration=0.1099999999999994, confidence=0.907, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c80845b0>, substringRange={10, 3}, timestamp=15.01, duration=0.4100000000000001, confidence=0.934, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084b00>, substringRange={13, 2}, timestamp=15.42, duration=0.2300000000000004, confidence=0.909, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084a60>, substringRange={15, 1}, timestamp=15.65, duration=0.09999999999999964, confidence=0.933, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084a10>, substringRange={16, 3}, timestamp=15.75, duration=0.4499999999999993, confidence=0.938, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084290>, substringRange={19, 1}, timestamp=16.2, duration=2.460000000000001, confidence=0.869, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084600>, substringRange={20, 3}, timestamp=18.66, duration=5.900000000000002, confidence=0.913, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084ab0>, substringRange={23, 5}, timestamp=24.56, duration=0.6099999999999994, confidence=0.913, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c80846a0>, substringRange={28, 1}, timestamp=25.17, duration=0.1199999999999974, confidence=0.931, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084650>, substringRange={29, 1}, timestamp=25.29, duration=2.240000000000002, confidence=0.932, substring=\U6642, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084510>, substringRange={30, 2}, timestamp=27.53, duration=1.309999999999999, confidence=0.848, substring=\U304a\U57ce, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084560>, substringRange={32, 4}, timestamp=28.84, duration=0.5100000000000016, confidence=0.904, substring=\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c80849c0>, substringRange={36, 1}, timestamp=29.35, duration=3.949999999999996, confidence=0.929, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084c40>, substringRange={37, 4}, timestamp=33.3, duration=0.740000000000002, confidence=0.708, substring=\U771f\U3063\U9ed2\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c8084830>, substringRange={41, 2}, timestamp=34.04, duration=0.7899999999999991, confidence=0.37, substring=\U4e2d\U306b, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:16.079866+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時お城押し入れの真っ黒い中に
+2018-07-10 17:11:16.080043+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:17.766346+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c0056320> final=0, bestTranscription=<SFTranscription: 0x1c0028f40>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中にじっと, segments=(
+    "<SFTranscriptionSegment: 0x1c0084970>, substringRange={0, 47}, timestamp=0, duration=36.83, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U6559\U3048\U308d\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U3058\U3063\U3068, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:17.766540+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中にじっと
+2018-07-10 17:11:17.766698+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:18.166164+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c0056f50> final=0, bestTranscription=<SFTranscription: 0x1c0029020>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中にじっとしゃがんで, segments=(
+    "<SFTranscriptionSegment: 0x1c00847e0>, substringRange={0, 52}, timestamp=0, duration=37.27, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U6559\U3048\U308d\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U3058\U3063\U3068\U3057\U3083\U304c\U3093\U3067, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:18.166375+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中にじっとしゃがんで
+2018-07-10 17:11:18.166531+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:18.767054+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c8056290> final=0, bestTranscription=<SFTranscription: 0x1c8028120>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中にじっとしゃがんで隠れて, segments=(
+    "<SFTranscriptionSegment: 0x1c80849c0>, substringRange={0, 55}, timestamp=0, duration=37.92, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U6559\U3048\U308d\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U3058\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:18.767289+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中にじっとしゃがんで隠れて
+2018-07-10 17:11:18.767450+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:19.352854+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c0056f50> final=0, bestTranscription=<SFTranscription: 0x1c0028f60>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中にじっとしゃがんで隠れていて, segments=(
+    "<SFTranscriptionSegment: 0x1c0084970>, substringRange={0, 57}, timestamp=0, duration=38.38, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U6559\U3048\U308d\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U3058\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:19.353061+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中にじっとしゃがんで隠れていて
+2018-07-10 17:11:19.353216+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:19.818798+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c8056410> final=0, bestTranscription=<SFTranscription: 0x1c80280e0>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時お城押し入れの真っ黒い中にじっとしゃがんで隠れていて, segments=(
+    "<SFTranscriptionSegment: 0x1c8084830>, substringRange={0, 56}, timestamp=0, duration=38.47, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U304a\U57ce\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U3058\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:19.819001+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時お城押し入れの真っ黒い中にじっとしゃがんで隠れていて
+2018-07-10 17:11:19.819157+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:19.924147+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c4057820> final=0, bestTranscription=<SFTranscription: 0x1c402bfe0>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時お城押し入れの真っ黒い中にじっとしゃがんで隠れていて, segments=(
+    "<SFTranscriptionSegment: 0x1c4084330>, substringRange={0, 2}, timestamp=3.05, duration=3.15, confidence=0.492, substring=\U3042\U30fc, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084c90>, substringRange={2, 5}, timestamp=6.2, duration=5.19, confidence=0.936, substring=\U3053\U3093\U306b\U3061\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084c40>, substringRange={7, 1}, timestamp=11.39, duration=3.289999999999999, confidence=0.935, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084b00>, substringRange={8, 1}, timestamp=14.68, duration=0.2200000000000006, confidence=0.934, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084d80>, substringRange={9, 1}, timestamp=14.9, duration=0.1099999999999994, confidence=0.911, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084d30>, substringRange={10, 3}, timestamp=15.01, duration=0.4100000000000001, confidence=0.936, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084650>, substringRange={13, 2}, timestamp=15.42, duration=0.2300000000000004, confidence=0.912, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084f10>, substringRange={15, 1}, timestamp=15.65, duration=0.09999999999999964, confidence=0.934, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084e20>, substringRange={16, 3}, timestamp=15.75, duration=0.4499999999999993, confidence=0.941, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084ec0>, substringRange={19, 1}, timestamp=16.2, duration=2.460000000000001, confidence=0.874, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084a60>, substringRange={20, 3}, timestamp=18.66, duration=5.900000000000002, confidence=0.916, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084e70>, substringRange={23, 5}, timestamp=24.56, duration=0.6099999999999994, confidence=0.917, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084ce0>, substringRange={28, 1}, timestamp=25.17, duration=0.1199999999999974, confidence=0.934, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084ba0>, substringRange={29, 1}, timestamp=25.29, duration=2.240000000000002, confidence=0.934, substring=\U6642, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4085140>, substringRange={30, 2}, timestamp=27.53, duration=1.309999999999999, confidence=0.851, substring=\U304a\U57ce, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c40847e0>, substringRange={32, 4}, timestamp=28.84, duration=0.5100000000000016, confidence=0.907, substring=\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4085050>, substringRange={36, 1}, timestamp=29.35, duration=3.949999999999996, confidence=0.932, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c40850a0>, substringRange={37, 4}, timestamp=33.3, duration=0.740000000000002, confidence=0.826, substring=\U771f\U3063\U9ed2\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c40850f0>, substringRange={41, 2}, timestamp=34.04, duration=1.910000000000004, confidence=0.667, substring=\U4e2d\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4085000>, substringRange={43, 3}, timestamp=35.95, duration=0.509999999999998, confidence=0.933, substring=\U3058\U3063\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084fb0>, substringRange={46, 5}, timestamp=36.46, duration=0.6300000000000026, confidence=0.933, substring=\U3057\U3083\U304c\U3093\U3067, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084240>, substringRange={51, 3}, timestamp=37.09, duration=0.7399999999999949, confidence=0.934, substring=\U96a0\U308c\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4085190>, substringRange={54, 2}, timestamp=37.83, duration=0.6400000000000006, confidence=0.935, substring=\U3044\U3066, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:19.925182+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時お城押し入れの真っ黒い中にじっとしゃがんで隠れていて
+2018-07-10 17:11:19.925324+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:24.353544+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c0056200> final=0, bestTranscription=<SFTranscription: 0x1c0029020>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中にじっとしゃがんで隠れていて突然, segments=(
+    "<SFTranscriptionSegment: 0x1c0084970>, substringRange={0, 59}, timestamp=0, duration=43.48, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U6559\U3048\U308d\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U3058\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:24.353785+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中にじっとしゃがんで隠れていて突然
+2018-07-10 17:11:24.353948+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:29.163097+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c0056770> final=0, bestTranscription=<SFTranscription: 0x1c0028f40>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中にじっとしゃがんで隠れていて突然でんこ, segments=(
+    "<SFTranscriptionSegment: 0x1c0084970>, substringRange={0, 62}, timestamp=0, duration=48.19, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U6559\U3048\U308d\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U3058\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3093\U3053, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:29.163290+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中にじっとしゃがんで隠れていて突然でんこ
+2018-07-10 17:11:29.163453+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:29.264525+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c40578b0> final=0, bestTranscription=<SFTranscription: 0x1c402c8c0>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中にじっとしゃがんで隠れていて突然でんこちゃん, segments=(
+    "<SFTranscriptionSegment: 0x1c4084240>, substringRange={0, 65}, timestamp=0, duration=48.27, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U6559\U3048\U308d\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U3058\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3093\U3053\U3061\U3083\U3093, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:29.264750+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中にじっとしゃがんで隠れていて突然でんこちゃん
+2018-07-10 17:11:29.265023+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:29.370753+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c8056470> final=0, bestTranscription=<SFTranscription: 0x1c8027ca0>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中にじっとしゃがんで隠れていて突然でんこちゃんに, segments=(
+    "<SFTranscriptionSegment: 0x1c80849c0>, substringRange={0, 66}, timestamp=0, duration=48.43, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U6559\U3048\U308d\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U3058\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3093\U3053\U3061\U3083\U3093\U306b, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:29.371015+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時教えろ押し入れの真っ黒い中にじっとしゃがんで隠れていて突然でんこちゃんに
+2018-07-10 17:11:29.371178+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:40.834393+0900 SFQuota[20589:5835519] [debug] RecognitionTask State [+55.0]:1
+2018-07-10 17:11:41.828258+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c4057a00> final=0, bestTranscription=<SFTranscription: 0x1c4028aa0>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時お城押し入れの真っ黒い中にじっとしゃがんで隠れていて突然でこちゃんに, segments=(
+    "<SFTranscriptionSegment: 0x1c4085190>, substringRange={0, 64}, timestamp=0, duration=59.96, confidence=0, substring=\U3042\U30fc\U3053\U3093\U306b\U3061\U306f\U671d\U76ee\U3092\U899a\U307e\U3059\U3068\U304d\U306e\U6c17\U6301\U3061\U306f\U9762\U767d\U3044\U304b\U304f\U308c\U3093\U307c\U306e\U6642\U304a\U57ce\U62bc\U3057\U5165\U308c\U306e\U771f\U3063\U9ed2\U3044\U4e2d\U306b\U3058\U3063\U3068\U3057\U3083\U304c\U3093\U3067\U96a0\U308c\U3066\U3044\U3066\U7a81\U7136\U3067\U3053\U3061\U3083\U3093\U306b, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:41.828477+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時お城押し入れの真っ黒い中にじっとしゃがんで隠れていて突然でこちゃんに
+2018-07-10 17:11:41.828644+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 1
+2018-07-10 17:11:41.851827+0900 SFQuota[20589:5835519] [debug] <SFSpeechRecognitionResult: 0x1c4057730> final=1, bestTranscription=<SFTranscription: 0x1c402aa40>, formattedString=あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時お城押し入れの真っ黒い中にじっとしゃがんで隠れていて突然でこちゃんに, segments=(
+    "<SFTranscriptionSegment: 0x1c4084bf0>, substringRange={0, 2}, timestamp=3.05, duration=3.15, confidence=0.497, substring=\U3042\U30fc, alternativeSubstrings=(\n    \"\\U3042\"\n)",
+    "<SFTranscriptionSegment: 0x1c4084f60>, substringRange={2, 5}, timestamp=6.2, duration=5.19, confidence=0.937, substring=\U3053\U3093\U306b\U3061\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084510>, substringRange={7, 1}, timestamp=11.39, duration=3.289999999999999, confidence=0.936, substring=\U671d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084240>, substringRange={8, 1}, timestamp=14.68, duration=0.2200000000000006, confidence=0.935, substring=\U76ee, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084fb0>, substringRange={9, 1}, timestamp=14.9, duration=0.1099999999999994, confidence=0.913, substring=\U3092, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4085000>, substringRange={10, 3}, timestamp=15.01, duration=0.4100000000000001, confidence=0.937, substring=\U899a\U307e\U3059, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c40850f0>, substringRange={13, 2}, timestamp=15.42, duration=0.2300000000000004, confidence=0.914, substring=\U3068\U304d, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4085050>, substringRange={15, 1}, timestamp=15.65, duration=0.09999999999999964, confidence=0.937, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c40847e0>, substringRange={16, 3}, timestamp=15.75, duration=0.4499999999999993, confidence=0.942, substring=\U6c17\U6301\U3061, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4085140>, substringRange={19, 1}, timestamp=16.2, duration=2.460000000000001, confidence=0.876, substring=\U306f, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084ba0>, substringRange={20, 3}, timestamp=18.66, duration=5.900000000000002, confidence=0.918, substring=\U9762\U767d\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c40850a0>, substringRange={23, 5}, timestamp=24.56, duration=0.6099999999999994, confidence=0.918, substring=\U304b\U304f\U308c\U3093\U307c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084ce0>, substringRange={28, 1}, timestamp=25.17, duration=0.1199999999999974, confidence=0.935, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084e70>, substringRange={29, 1}, timestamp=25.29, duration=2.240000000000002, confidence=0.936, substring=\U6642, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084a60>, substringRange={30, 2}, timestamp=27.53, duration=1.309999999999999, confidence=0.852, substring=\U304a\U57ce, alternativeSubstrings=(\n    \"\\U304a\\U57ce\\U306e\"\n)",
+    "<SFTranscriptionSegment: 0x1c4084ec0>, substringRange={32, 4}, timestamp=28.84, duration=0.5100000000000016, confidence=0.909, substring=\U62bc\U3057\U5165\U308c, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084e20>, substringRange={36, 1}, timestamp=29.35, duration=3.949999999999996, confidence=0.933, substring=\U306e, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084f10>, substringRange={37, 4}, timestamp=33.3, duration=0.740000000000002, confidence=0.829, substring=\U771f\U3063\U9ed2\U3044, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084650>, substringRange={41, 2}, timestamp=34.04, duration=1.910000000000004, confidence=0.671, substring=\U4e2d\U306b, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084d30>, substringRange={43, 3}, timestamp=35.95, duration=0.509999999999998, confidence=0.935, substring=\U3058\U3063\U3068, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084d80>, substringRange={46, 5}, timestamp=36.46, duration=0.6300000000000026, confidence=0.935, substring=\U3057\U3083\U304c\U3093\U3067, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084b00>, substringRange={51, 3}, timestamp=37.09, duration=0.7399999999999949, confidence=0.935, substring=\U96a0\U308c\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084c40>, substringRange={54, 2}, timestamp=37.83, duration=4.75, confidence=0.936, substring=\U3044\U3066, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084c90>, substringRange={56, 2}, timestamp=42.58, duration=4.940000000000005, confidence=0.943, substring=\U7a81\U7136, alternativeSubstrings=(\n)",
+    "<SFTranscriptionSegment: 0x1c4084330>, substringRange={58, 5}, timestamp=47.52, duration=0.6000000000000014, confidence=0.033, substring=\U3067\U3053\U3061\U3083\U3093, alternativeSubstrings=(\n    \"\\U3067\\U3093\\U3053\\U3061\\U3083\\U3093\",\n    \"\\U30c7\\U30b3\\U3061\\U3083\\U3093\"\n)",
+    "<SFTranscriptionSegment: 0x1c40851e0>, substringRange={63, 1}, timestamp=48.12, duration=11.84, confidence=0.735, substring=\U306b, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:11:41.859387+0900 SFQuota[20589:5835519] [debug] あーこんにちは朝目を覚ますときの気持ちは面白いかくれんぼの時お城押し入れの真っ黒い中にじっとしゃがんで隠れていて突然でこちゃんに
+2018-07-10 17:11:41.859515+0900 SFQuota[20589:5835519] [debug] result.isFinal
+2018-07-10 17:11:41.859647+0900 SFQuota[20589:5835519] [debug] RecognitionTask State 4
+2018-07-10 17:11:45.675196+0900 SFQuota[20589:5835519] [debug] RecognitionTask State [+65.0]:4
+2018-07-10 17:11:49.516233+0900 SFQuota[20589:5835519] [info] stopListening
+2018-07-10 17:11:49.516431+0900 SFQuota[20589:5835519] [info] deactivating audio
+2018-07-10 17:11:49.749167+0900 SFQuota[20589:5835519] [ERROR] The operation couldn’t be completed. (OSStatus error 560030580.)

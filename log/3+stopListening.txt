@@ -1,0 +1,16 @@
+2018-07-10 17:19:16.350851+0900 SFQuota[20611:5840590] [debug] RecognitionTask State [initial]:0
+2018-07-10 17:19:19.506558+0900 SFQuota[20611:5840590] [debug] <SFSpeechRecognitionResult: 0x1c405f0b0> final=0, bestTranscription=<SFTranscription: 0x1c403ce40>, formattedString=こんにちは, segments=(
+    "<SFTranscriptionSegment: 0x1c4093a60>, substringRange={0, 5}, timestamp=0, duration=2.81, confidence=0, substring=\U3053\U3093\U306b\U3061\U306f, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:19:19.506752+0900 SFQuota[20611:5840590] [debug] こんにちは
+2018-07-10 17:19:19.506913+0900 SFQuota[20611:5840590] [debug] RecognitionTask State 1
+2018-07-10 17:19:19.607543+0900 SFQuota[20611:5840590] [debug] <SFSpeechRecognitionResult: 0x1cc05fad0> final=0, bestTranscription=<SFTranscription: 0x1cc03ce40>, formattedString=こんにちは, segments=(
+    "<SFTranscriptionSegment: 0x1cc093650>, substringRange={0, 5}, timestamp=1.55, duration=1.27, confidence=0.918, substring=\U3053\U3093\U306b\U3061\U306f, alternativeSubstrings=(\n)"
+)
+2018-07-10 17:19:19.607741+0900 SFQuota[20611:5840590] [debug] こんにちは
+2018-07-10 17:19:19.607907+0900 SFQuota[20611:5840590] [debug] RecognitionTask State 1
+2018-07-10 17:19:22.698982+0900 SFQuota[20611:5840590] [info] stopListening
+2018-07-10 17:19:22.699171+0900 SFQuota[20611:5840590] [info] deactivating audio
+2018-07-10 17:19:22.909706+0900 SFQuota[20611:5840590] [ERROR] The operation couldn’t be completed. (OSStatus error 560030580.)
+2018-07-10 17:19:22.930602+0900 SFQuota[20611:5840590] [ERROR] The operation couldn’t be completed. (kAFAssistantErrorDomain error 216.)
+2018-07-10 17:19:22.930653+0900 SFQuota[20611:5840590] [debug] no result from recognition task result handler
