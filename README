@@ -17,3 +17,5 @@ SpeechRecognitionTaskState:
 - Error Domain=kAFAssistantErrorDomain Code=209 "(null)" often appears in consecutive recognition calls when the recognizer tries to start a new task before finishing with the best transcription result.
 
 - Error Domain=kAFAssistantErrorDomain Code=203 "Retry" just seemed to be bad input, but they say its something else https://developer.apple.com/library/archive/qa/qa1951/_index.html#//apple_ref/doc/uid/DTS40017662
+
+- Device-per-hour is said to be 1000 reqs/hour in the link above, but when testing recurring recognition (first with 15 sec duration and 5 sec in between, second with 2 sec duration and 1 sec in between (about 1200 reqs/hour)) it worked fine.
